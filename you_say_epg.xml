@@ -1,0 +1,2076 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv generator_info_name="TelegramEPG">
+  <programme channel="NBA  01" start="20260113073000 +0000" stop="20260113093000 +0000">
+    <title lang="en">Miami Heat vs Phoenix Suns</title>
+  </programme>
+  <programme channel="NBA  02" start="20260113080000 +0000" stop="20260113100000 +0000">
+    <title lang="en">Houston Rockets vs Chicago Bulls</title>
+  </programme>
+  <programme channel="NBA  03" start="20260113080000 +0000" stop="20260113100000 +0000">
+    <title lang="en">Milwaukee Bucks vs Minnesota Timberwolves</title>
+  </programme>
+  <programme channel="NBA  04" start="20260113080000 +0000" stop="20260113100000 +0000">
+    <title lang="en">New Orleans Pelicans vs Denver Nuggets</title>
+  </programme>
+  <programme channel="NBA  05" start="20260113080000 +0000" stop="20260113100000 +0000">
+    <title lang="en">Oklahoma City Thunder vs San Antonio Spurs</title>
+  </programme>
+  <programme channel="NBA  06" start="20260113103000 +0000" stop="20260113123000 +0000">
+    <title lang="en">Los Angeles Lakers vs Atlanta Hawks</title>
+  </programme>
+  <programme channel="NBA  07" start="20260113110000 +0000" stop="20260113130000 +0000">
+    <title lang="en">Golden State Warriors vs Portland Trail Blazers</title>
+  </programme>
+  <programme channel="NHL  01" start="20260113063000 +0000" stop="20260113083000 +0000">
+    <title lang="en">Montreal Canadiens vs Washington Capitals (Capitals Broadcast)</title>
+  </programme>
+  <programme channel="NHL  02" start="20260113063000 +0000" stop="20260113083000 +0000">
+    <title lang="en">Montreal Canadiens vs Washington Capitals (Canadiens Broadcast)</title>
+  </programme>
+  <programme channel="NHL  03" start="20260113063000 +0000" stop="20260113083000 +0000">
+    <title lang="en">Calgary Flames vs Columbus Blue Jackets (Blue Jackets Broadcast)</title>
+  </programme>
+  <programme channel="NHL  04" start="20260113063000 +0000" stop="20260113083000 +0000">
+    <title lang="en">Calgary Flames vs Columbus Blue Jackets (Flames Broadcast)</title>
+  </programme>
+  <programme channel="NHL  05" start="20260113063000 +0000" stop="20260113083000 +0000">
+    <title lang="en">Tampa Bay Lightning vs Pittsburgh Penguins (Penguins Broadcast)</title>
+  </programme>
+  <programme channel="NHL  06" start="20260113063000 +0000" stop="20260113083000 +0000">
+    <title lang="en">Tampa Bay Lightning vs Pittsburgh Penguins (Lightning Broadcast)</title>
+  </programme>
+  <programme channel="NHL  07" start="20260113070000 +0000" stop="20260113090000 +0000">
+    <title lang="en">Vancouver Canucks vs Ottawa Senators (Canucks Broadcast)</title>
+  </programme>
+  <programme channel="NHL  08" start="20260113070000 +0000" stop="20260113090000 +0000">
+    <title lang="en">Vancouver Canucks vs Ottawa Senators (Senators Broadcast)</title>
+  </programme>
+  <programme channel="NHL  09" start="20260113073000 +0000" stop="20260113093000 +0000">
+    <title lang="en">Detroit vs Boston</title>
+  </programme>
+  <programme channel="NHL  10" start="20260113073000 +0000" stop="20260113093000 +0000">
+    <title lang="en">Carolina Hurricanes vs St Louis Blues</title>
+  </programme>
+  <programme channel="NHL  11" start="20260113073000 +0000" stop="20260113093000 +0000">
+    <title lang="en">Edmonton Oilers vs Nashville Predators (Predators Broadcast)</title>
+  </programme>
+  <programme channel="NHL  12" start="20260113073000 +0000" stop="20260113093000 +0000">
+    <title lang="en">Edmonton Oilers vs Nashville Predators (National Broadcast)</title>
+  </programme>
+  <programme channel="NHL  13" start="20260113080000 +0000" stop="20260113100000 +0000">
+    <title lang="en">New York Islanders vs Winnipeg Jets (Jets Broadcast)</title>
+  </programme>
+  <programme channel="NHL  14" start="20260113080000 +0000" stop="20260113100000 +0000">
+    <title lang="en">New York Islanders vs Winnipeg Jets (Islanders Broadcast)</title>
+  </programme>
+  <programme channel="NHL  15" start="20260113100000 +0000" stop="20260113120000 +0000">
+    <title lang="en">Toronto Maple Leafs vs Utah Mammoth</title>
+  </programme>
+  <programme channel="NHL  16" start="20260113100000 +0000" stop="20260113120000 +0000">
+    <title lang="en">Dallas vs Anaheim</title>
+  </programme>
+  <programme channel="NCAAB  01" start="20260113110000 +0000" stop="20260113130000 +0000">
+    <title lang="en">Hawk Talk with Bill Self</title>
+  </programme>
+  <programme channel="NCAAB  02" start="20260113010000 +0000" stop="20260113030000 +0000">
+    <title lang="en">UTSA Mens Basketball Weekly Presser</title>
+  </programme>
+  <programme channel="NCAAB  03" start="20260113063000 +0000" stop="20260113083000 +0000">
+    <title lang="en">Northern Illinois vs Eastern Michigan</title>
+  </programme>
+  <programme channel="NCAAB  04" start="20260113063000 +0000" stop="20260113083000 +0000">
+    <title lang="en">Kent State vs Buffalo</title>
+  </programme>
+  <programme channel="NCAAB  05" start="20260113070000 +0000" stop="20260113090000 +0000">
+    <title lang="en">UIC vs Northern Iowa</title>
+  </programme>
+  <programme channel="NCAAB  06" start="20260113070000 +0000" stop="20260113090000 +0000">
+    <title lang="en">Dayton vs Duquesne</title>
+  </programme>
+  <programme channel="NCAAB  07" start="20260113070000 +0000" stop="20260113090000 +0000">
+    <title lang="en">Ohio vs Toledo</title>
+  </programme>
+  <programme channel="NCAAB  08" start="20260113070000 +0000" stop="20260113090000 +0000">
+    <title lang="en">Ball State vs Akron</title>
+  </programme>
+  <programme channel="NCAAB  09" start="20260113070000 +0000" stop="20260113090000 +0000">
+    <title lang="en">UMass Lowell vs Western Michigan</title>
+  </programme>
+  <programme channel="NCAAB  10" start="20260113070000 +0000" stop="20260113090000 +0000">
+    <title lang="en">Central Michigan vs Miami OH</title>
+  </programme>
+  <programme channel="NCAAB  11" start="20260113073000 +0000" stop="20260113093000 +0000">
+    <title lang="en">Valparaiso vs Belmont</title>
+  </programme>
+  <programme channel="NCAAB  12" start="20260113080000 +0000" stop="20260113100000 +0000">
+    <title lang="en">Bradley vs Evansville</title>
+  </programme>
+  <programme channel="NCAAB  13" start="20260113083000 +0000" stop="20260113103000 +0000">
+    <title lang="en">Western Illinois vs Eastern Illinois B</title>
+  </programme>
+  <programme channel="NCAAB W  01" start="20260113010000 +0000" stop="20260113030000 +0000">
+    <title lang="en">SUNY Delhi vs Cornell</title>
+  </programme>
+  <programme channel="NCAAB W  02" start="20260113060000 +0000" stop="20260113080000 +0000">
+    <title lang="en">Western Illinois vs Eastern Illinois A</title>
+  </programme>
+  <programme channel="NCAAB W  03" start="20260113060000 +0000" stop="20260113080000 +0000">
+    <title lang="en">Tulsa vs East Carolina</title>
+  </programme>
+  <programme channel="NCAAB W  04" start="20260113063000 +0000" stop="20260113083000 +0000">
+    <title lang="en">DePaul vs Xavier</title>
+  </programme>
+  <programme channel="NCAAB W  05" start="20260113070000 +0000" stop="20260113090000 +0000">
+    <title lang="en">Memphis vs North Texas</title>
+  </programme>
+  <programme channel="NCAAB W  06" start="20260113070000 +0000" stop="20260113090000 +0000">
+    <title lang="en">UTSA vs South Florida</title>
+  </programme>
+  <programme channel="NCAAB W  07" start="20260113070000 +0000" stop="20260113090000 +0000">
+    <title lang="en">Houston vs #17 Texas Tech</title>
+  </programme>
+  <programme channel="NCAAB W  08" start="20260113070000 +0000" stop="20260113090000 +0000">
+    <title lang="en">Tulane vs Temple</title>
+  </programme>
+  <programme channel="NCAAB W  09" start="20260113070000 +0000" stop="20260113090000 +0000">
+    <title lang="en">St Johns vs Georgetown</title>
+  </programme>
+  <programme channel="NCAAB W  10" start="20260113070000 +0000" stop="20260113090000 +0000">
+    <title lang="en">Wichita State vs Florida Atlantic</title>
+  </programme>
+  <programme channel="NCAAB W  11" start="20260113080000 +0000" stop="20260113100000 +0000">
+    <title lang="en">UAB vs Rice</title>
+  </programme>
+  <programme channel="Peacock Event  01" start="20260113114500 +0000" stop="20260113134500 +0000">
+    <title lang="en">Womens Slalom Run 1</title>
+  </programme>
+  <programme channel="Peacock Event  02" start="20260113124500 +0000" stop="20260113144500 +0000">
+    <title lang="en">Snowboard Parallel Slalom</title>
+  </programme>
+  <programme channel="Peacock Event  03" start="20260113144500 +0000" stop="20260113164500 +0000">
+    <title lang="en">Womens Slalom Run 2</title>
+  </programme>
+  <programme channel="Peacock Event  04" start="20260113183000 +0000" stop="20260113203000 +0000">
+    <title lang="en">Marquette vs St Johns</title>
+  </programme>
+  <programme channel="Peacock Event  05" start="20260113183000 +0000" stop="20260113203000 +0000">
+    <title lang="en">Indiana vs Michigan State</title>
+  </programme>
+  <programme channel="Peacock Event  06" start="20260113190000 +0000" stop="20260113210000 +0000">
+    <title lang="en">Performance View SAS vs OKC</title>
+  </programme>
+  <programme channel="Peacock Event  07" start="20260113190000 +0000" stop="20260113210000 +0000">
+    <title lang="en">Spurs vs Thunder</title>
+  </programme>
+  <programme channel="Peacock Event  08" start="20260113210000 +0000" stop="20260113230000 +0000">
+    <title lang="en">Georgetown vs Creighton</title>
+  </programme>
+  <programme channel="Peacock Event  09" start="20260113213000 +0000" stop="20260113233000 +0000">
+    <title lang="en">Juárez vs Chivas Español</title>
+  </programme>
+  <programme channel="Peacock Event  10" start="20260113230000 +0000" stop="20260114010000 +0000">
+    <title lang="en">Trail Blazers vs Warriors</title>
+  </programme>
+  <programme channel="Peacock Event  11" start="20260113230000 +0000" stop="20260114010000 +0000">
+    <title lang="en">Performance View POR vs GSW</title>
+  </programme>
+  <programme channel="SEC+  01" start="20260113063000 +0000" stop="20260113083000 +0000">
+    <title lang="en">The Paul Finebaum Show: The Paul Finebaum Show</title>
+  </programme>
+  <programme channel="ESPN+  40" start="20260113063000 +0000" stop="20260113083000 +0000">
+    <title lang="en">NCAAM: Northern Illinois vs Eastern Michigan</title>
+  </programme>
+  <programme channel="ESPN+  41" start="20260113063000 +0000" stop="20260113083000 +0000">
+    <title lang="en">NHL: Calgary Flames vs Columbus Blue Jackets (Blue Jackets Broadcast)</title>
+  </programme>
+  <programme channel="ESPN+  42" start="20260113063000 +0000" stop="20260113083000 +0000">
+    <title lang="en">NHL: Calgary Flames vs Columbus Blue Jackets (Flames Broadcast)</title>
+  </programme>
+  <programme channel="ESPN+  43" start="20260113063000 +0000" stop="20260113083000 +0000">
+    <title lang="en">NHL: Tampa Bay Lightning vs Pittsburgh Penguins (Penguins Broadcast)</title>
+  </programme>
+  <programme channel="ESPN+  44" start="20260113063000 +0000" stop="20260113083000 +0000">
+    <title lang="en">NHL: Tampa Bay Lightning vs Pittsburgh Penguins (Lightning Broadcast)</title>
+  </programme>
+  <programme channel="ESPN+  45" start="20260113063000 +0000" stop="20260113083000 +0000">
+    <title lang="en">NCAAW: DePaul vs Xavier</title>
+  </programme>
+  <programme channel="ESPN+  46" start="20260113063000 +0000" stop="20260113083000 +0000">
+    <title lang="en">NCAAM: Kent State vs Buffalo</title>
+  </programme>
+  <programme channel="ESPN+  47" start="20260113064000 +0000" stop="20260113084000 +0000">
+    <title lang="en">Cricket: Auckland Aces vs Canterbury Kings</title>
+  </programme>
+  <programme channel="ESPN+  48" start="20260113070000 +0000" stop="20260113090000 +0000">
+    <title lang="en">NCAAW: Memphis vs North Texas</title>
+  </programme>
+  <programme channel="ESPN+  49" start="20260113070000 +0000" stop="20260113090000 +0000">
+    <title lang="en">NCAAM: UIC vs Northern Iowa</title>
+  </programme>
+  <programme channel="ESPN+  50" start="20260113070000 +0000" stop="20260113090000 +0000">
+    <title lang="en">NCAAM: Dayton vs Duquesne</title>
+  </programme>
+  <programme channel="ESPN+  51" start="20260113070000 +0000" stop="20260113090000 +0000">
+    <title lang="en">NCAAW: UTSA vs South Florida</title>
+  </programme>
+  <programme channel="ESPN+  52" start="20260113070000 +0000" stop="20260113090000 +0000">
+    <title lang="en">NCAAM: Ohio vs Toledo</title>
+  </programme>
+  <programme channel="ESPN+  53" start="20260113070000 +0000" stop="20260113090000 +0000">
+    <title lang="en">NCAAW: Houston vs #17 Texas Tech</title>
+  </programme>
+  <programme channel="ESPN+  54" start="20260113070000 +0000" stop="20260113090000 +0000">
+    <title lang="en">NCAAM: Ball State vs Akron</title>
+  </programme>
+  <programme channel="ESPN+  55" start="20260113070000 +0000" stop="20260113090000 +0000">
+    <title lang="en">NCAAW: Tulane vs Temple</title>
+  </programme>
+  <programme channel="ESPN+  56" start="20260113070000 +0000" stop="20260113090000 +0000">
+    <title lang="en">NHL: Vancouver Canucks vs Ottawa Senators (Canucks Broadcast)</title>
+  </programme>
+  <programme channel="ESPN+  57" start="20260113070000 +0000" stop="20260113090000 +0000">
+    <title lang="en">NHL: Vancouver Canucks vs Ottawa Senators (Senators Broadcast)</title>
+  </programme>
+  <programme channel="ESPN+  58" start="20260113070000 +0000" stop="20260113090000 +0000">
+    <title lang="en">NCAAM: UMass Lowell vs Western Michigan</title>
+  </programme>
+  <programme channel="ESPN+  59" start="20260113070000 +0000" stop="20260113090000 +0000">
+    <title lang="en">NCAAW: St Johns vs Georgetown</title>
+  </programme>
+  <programme channel="ESPN+  60" start="20260113070000 +0000" stop="20260113090000 +0000">
+    <title lang="en">NCAAM: Central Michigan vs Miami OH</title>
+  </programme>
+  <programme channel="ESPN+  61" start="20260113070000 +0000" stop="20260113090000 +0000">
+    <title lang="en">NCAAW: Wichita State vs Florida Atlantic</title>
+  </programme>
+  <programme channel="ESPN+  62" start="20260113073000 +0000" stop="20260113093000 +0000">
+    <title lang="en">NHL: Carolina Hurricanes vs St Louis Blues</title>
+  </programme>
+  <programme channel="ESPN+  63" start="20260113073000 +0000" stop="20260113093000 +0000">
+    <title lang="en">CWHOC: #7 Northeastern vs Boston University</title>
+  </programme>
+  <programme channel="ESPN+  64" start="20260113073000 +0000" stop="20260113093000 +0000">
+    <title lang="en">NHL: Edmonton Oilers vs Nashville Predators (Predators Broadcast)</title>
+  </programme>
+  <programme channel="ESPN+  65" start="20260113073000 +0000" stop="20260113093000 +0000">
+    <title lang="en">NHL: Edmonton Oilers vs Nashville Predators (National Broadcast)</title>
+  </programme>
+  <programme channel="ESPN+  66" start="20260113073000 +0000" stop="20260113093000 +0000">
+    <title lang="en">NCAAM: Valparaiso vs Belmont</title>
+  </programme>
+  <programme channel="ESPN+  67" start="20260113080000 +0000" stop="20260113100000 +0000">
+    <title lang="en">NBA G League: Sioux Falls Skyforce vs Memphis Hustle</title>
+  </programme>
+  <programme channel="ESPN+  68" start="20260113080000 +0000" stop="20260113100000 +0000">
+    <title lang="en">NHL: New York Islanders vs Winnipeg Jets (Jets Broadcast)</title>
+  </programme>
+  <programme channel="ESPN+  69" start="20260113080000 +0000" stop="20260113100000 +0000">
+    <title lang="en">NHL: New York Islanders vs Winnipeg Jets (Islanders Broadcast)</title>
+  </programme>
+  <programme channel="ESPN+  70" start="20260113080000 +0000" stop="20260113100000 +0000">
+    <title lang="en">NCAAW: UAB vs Rice</title>
+  </programme>
+  <programme channel="ESPN+  71" start="20260113080000 +0000" stop="20260113100000 +0000">
+    <title lang="en">NCAAM: Bradley vs Evansville</title>
+  </programme>
+  <programme channel="ESPN+  72" start="20260113080000 +0000" stop="20260113100000 +0000">
+    <title lang="en">NBA G League: Austin Spurs vs Salt Lake City Stars</title>
+  </programme>
+  <programme channel="ESPN+  73" start="20260113083000 +0000" stop="20260113103000 +0000">
+    <title lang="en">NCAAM: Western Illinois vs Eastern Illinois B</title>
+  </programme>
+  <programme channel="ESPN+  74" start="20260113090000 +0000" stop="20260113110000 +0000">
+    <title lang="en">NBA G League: Iowa Wolves vs Valley Suns</title>
+  </programme>
+  <programme channel="ESPN+  75" start="20260113090000 +0000" stop="20260113110000 +0000">
+    <title lang="en">NBA G League: En Español Rio Grande Valley Vipers vs Capitanes de Ciudad de México</title>
+  </programme>
+  <programme channel="ESPN+  76" start="20260113090000 +0000" stop="20260113110000 +0000">
+    <title lang="en">NBA G League: Rio Grande Valley Vipers vs Mexico City Capitanes</title>
+  </programme>
+  <programme channel="ESPN+  77" start="20260113100000 +0000" stop="20260113120000 +0000">
+    <title lang="en">NHL: Toronto Maple Leafs vs Utah Mammoth</title>
+  </programme>
+  <programme channel="ESPN+  78" start="20260113105000 +0000" stop="20260113125000 +0000">
+    <title lang="en">Cricket: Auckland Hearts vs Canterbury Magicians</title>
+  </programme>
+  <programme channel="ESPN+  01" start="20260113100000 +0000" stop="20260113120000 +0000">
+    <title lang="en">Clinton and Friends: Clinton &amp; Friends</title>
+  </programme>
+  <programme channel="ESPN+  02" start="20260113110000 +0000" stop="20260113130000 +0000">
+    <title lang="en">LALIGA: Tue 1-13 LALIGA Highlight Show</title>
+  </programme>
+  <programme channel="ESPN+  03" start="20260113110000 +0000" stop="20260113130000 +0000">
+    <title lang="en">NCAAM: Hawk Talk with Bill Self</title>
+  </programme>
+  <programme channel="ESPN+  04" start="20260113120000 +0000" stop="20260113140000 +0000">
+    <title lang="en">The Rich Eisen Show: Tue 1-13 The Rich Eisen Show</title>
+  </programme>
+  <programme channel="ESPN+  05" start="20260113120000 +0000" stop="20260113140000 +0000">
+    <title lang="en">The Pat McAfee Show: The Pat McAfee Show</title>
+  </programme>
+  <programme channel="ESPN+  06" start="20260113122000 +0000" stop="20260113142000 +0000">
+    <title lang="en">Bundesliga: En Español VfB Stuttgart vs Eintracht Frankfurt</title>
+  </programme>
+  <programme channel="ESPN+  07" start="20260113122000 +0000" stop="20260113142000 +0000">
+    <title lang="en">Bundesliga: VfB Stuttgart vs Eintracht Frankfurt</title>
+  </programme>
+  <programme channel="ESPN+  08" start="20260113010000 +0000" stop="20260113030000 +0000">
+    <title lang="en">NCAAW: SUNY Delhi vs Cornell</title>
+  </programme>
+  <programme channel="ESPN+  09" start="20260113010000 +0000" stop="20260113030000 +0000">
+    <title lang="en">NCAAM: UTSA Mens Basketball Weekly Presser</title>
+  </programme>
+  <programme channel="ESPN+  10" start="20260113022000 +0000" stop="20260113042000 +0000">
+    <title lang="en">Bundesliga: Goal Arena The Bundesliga Konferenz</title>
+  </programme>
+  <programme channel="ESPN+  11" start="20260113022000 +0000" stop="20260113042000 +0000">
+    <title lang="en">Bundesliga: 1 FSV Mainz 05 vs 1 FC Heidenheim 1846</title>
+  </programme>
+  <programme channel="ESPN+  12" start="20260113022000 +0000" stop="20260113042000 +0000">
+    <title lang="en">Bundesliga: Hamburger SV vs Bayer 04 Leverkusen</title>
+  </programme>
+  <programme channel="ESPN+  13" start="20260113022000 +0000" stop="20260113042000 +0000">
+    <title lang="en">Bundesliga: Borussia Dortmund vs SV Werder Bremen</title>
+  </programme>
+  <programme channel="ESPN+  14" start="20260113022500 +0000" stop="20260113042500 +0000">
+    <title lang="en">Bundesliga: En Español Borussia Dortmund vs SV Werder Bremen</title>
+  </programme>
+  <programme channel="ESPN+  15" start="20260113025000 +0000" stop="20260113045000 +0000">
+    <title lang="en">Copa del Rey: Cultural Leonesa vs Athletic Club Round of 16 Copa del Rey</title>
+  </programme>
+  <programme channel="ESPN+  16" start="20260113025000 +0000" stop="20260113045000 +0000">
+    <title lang="en">Copa del Rey: Deportivo La Coruna vs Atletico de Madrid Round of 16 Copa del Rey</title>
+  </programme>
+  <programme channel="ESPN+  17" start="20260113025000 +0000" stop="20260113045000 +0000">
+    <title lang="en">Copa del Rey: Real Sociedad vs CA Osasuna Round of 16 Copa del Rey</title>
+  </programme>
+  <programme channel="ESPN+  18" start="20260113030000 +0000" stop="20260113050000 +0000">
+    <title lang="en">Freddie &amp; Harry: Freddie &amp; Harry</title>
+  </programme>
+  <programme channel="ESPN+  19" start="20260113040000 +0000" stop="20260113060000 +0000">
+    <title lang="en">IIHF: Canada vs Sweden</title>
+  </programme>
+  <programme channel="ESPN+  20" start="20260113043000 +0000" stop="20260113063000 +0000">
+    <title lang="en">CWHOC: Harvard vs Boston College</title>
+  </programme>
+  <programme channel="ESPN+  21" start="20260113050000 +0000" stop="20260113070000 +0000">
+    <title lang="en">ESPN FC Daily: Tue 1-13 ESPN FC</title>
+  </programme>
+  <programme channel="ESPN+  22" start="20260113060000 +0000" stop="20260113080000 +0000">
+    <title lang="en">Australian Open: Court 5 Qualifying Second Round</title>
+  </programme>
+  <programme channel="ESPN+  23" start="20260113060000 +0000" stop="20260113080000 +0000">
+    <title lang="en">Australian Open: Court 8 Qualifying Second Round</title>
+  </programme>
+  <programme channel="ESPN+  24" start="20260113060000 +0000" stop="20260113080000 +0000">
+    <title lang="en">Australian Open: Kia Arena Qualifying Second Round</title>
+  </programme>
+  <programme channel="ESPN+  25" start="20260113060000 +0000" stop="20260113080000 +0000">
+    <title lang="en">Australian Open: Court 7 Qualifying Second Round</title>
+  </programme>
+  <programme channel="ESPN+  26" start="20260113060000 +0000" stop="20260113080000 +0000">
+    <title lang="en">Australian Open: Court 6 Qualifying Second Round</title>
+  </programme>
+  <programme channel="ESPN+  27" start="20260113060000 +0000" stop="20260113080000 +0000">
+    <title lang="en">Australian Open: Court 12 Qualifying Second Round</title>
+  </programme>
+  <programme channel="ESPN+  28" start="20260113060000 +0000" stop="20260113080000 +0000">
+    <title lang="en">Australian Open: Court 14 Qualifying Second Round</title>
+  </programme>
+  <programme channel="ESPN+  29" start="20260113060000 +0000" stop="20260113080000 +0000">
+    <title lang="en">NCAAW: Western Illinois vs Eastern Illinois A</title>
+  </programme>
+  <programme channel="ESPN+  30" start="20260113060000 +0000" stop="20260113080000 +0000">
+    <title lang="en">Australian Open: Court 15 Qualifying Second Round</title>
+  </programme>
+  <programme channel="ESPN+  31" start="20260113060000 +0000" stop="20260113080000 +0000">
+    <title lang="en">Australian Open: Court 16 Qualifying Second Round</title>
+  </programme>
+  <programme channel="ESPN+  32" start="20260113060000 +0000" stop="20260113080000 +0000">
+    <title lang="en">NCAAW: Tulsa vs East Carolina</title>
+  </programme>
+  <programme channel="ESPN+  33" start="20260113060000 +0000" stop="20260113080000 +0000">
+    <title lang="en">Australian Open: Court 11 Qualifying Second Round</title>
+  </programme>
+  <programme channel="ESPN+  34" start="20260113060000 +0000" stop="20260113080000 +0000">
+    <title lang="en">Australian Open: Court 13 Qualifying Second Round</title>
+  </programme>
+  <programme channel="ESPN+  35" start="20260113060000 +0000" stop="20260113080000 +0000">
+    <title lang="en">Australian Open: 1573 Arena Qualifying Second Round</title>
+  </programme>
+  <programme channel="ESPN+  36" start="20260113060000 +0000" stop="20260113080000 +0000">
+    <title lang="en">Australian Open: Court 17 Qualifying Second Round</title>
+  </programme>
+  <programme channel="ESPN+  37" start="20260113060000 +0000" stop="20260113080000 +0000">
+    <title lang="en">Australian Open: ANZ Arena Qualifying Second Round</title>
+  </programme>
+  <programme channel="ESPN+  38" start="20260113063000 +0000" stop="20260113083000 +0000">
+    <title lang="en">NHL: Montreal Canadiens vs Washington Capitals (Capitals Broadcast)</title>
+  </programme>
+  <programme channel="ESPN+  39" start="20260113063000 +0000" stop="20260113083000 +0000">
+    <title lang="en">NHL: Montreal Canadiens vs Washington Capitals (Canadiens Broadcast)</title>
+  </programme>
+  <programme channel="Nbc Sports  01" start="20260113080000 +0000" stop="20260113100000 +0000">
+    <title lang="en">NBA: Spurs vs Thunder</title>
+  </programme>
+  <programme channel="Nbc Sports  02" start="20260113093000 +0000" stop="20260113113000 +0000">
+    <title lang="en">Liga MX: Juárez vs Chivas</title>
+  </programme>
+  <programme channel="Nbc Sports  03" start="20260113100000 +0000" stop="20260113120000 +0000">
+    <title lang="en">NBA: Trail Blazers vs Warriors</title>
+  </programme>
+  <programme channel="Paramount+  01" start="20260113020000 +0000" stop="20260113040000 +0000">
+    <title lang="en">Carabao Cup: Newcastle United vs Man City</title>
+  </programme>
+  <programme channel="Paramount+  02" start="20260113025000 +0000" stop="20260113045000 +0000">
+    <title lang="en">Serie A: Roma vs Torino</title>
+  </programme>
+  <programme channel="Stan Sports  01" start="20260114120000 +0000" stop="20260114140000 +0000">
+    <title lang="en">Australian Open: Stephens vs Gadecki</title>
+  </programme>
+  <programme channel="Stan Sports  02" start="20260114123000 +0000" stop="20260114143000 +0000">
+    <title lang="en">Australian Open: Cabrera vs Klimovicova</title>
+  </programme>
+  <programme channel="Stan Sports  03" start="20260114123000 +0000" stop="20260114143000 +0000">
+    <title lang="en">Australian Open: Kym vs Sweeny</title>
+  </programme>
+  <programme channel="Stan Sports  04" start="20260114123000 +0000" stop="20260114143000 +0000">
+    <title lang="en">Australian Open: Lee vs Micic</title>
+  </programme>
+  <programme channel="Stan Sports  05" start="20260114123000 +0000" stop="20260114143000 +0000">
+    <title lang="en">Australian Open: Fery vs Tomic</title>
+  </programme>
+  <programme channel="Stan Sports  06" start="20260114123000 +0000" stop="20260114143000 +0000">
+    <title lang="en">Adelaide International: Kasatkina vs Cristian</title>
+  </programme>
+  <programme channel="Stan Sports  07" start="20260114123000 +0000" stop="20260114143000 +0000">
+    <title lang="en">Adelaide International: Munar vs Cerundolo</title>
+  </programme>
+  <programme channel="Stan Sports  08" start="20260114010000 +0000" stop="20260114030000 +0000">
+    <title lang="en">Hobart International: Sramkova vs Preston</title>
+  </programme>
+  <programme channel="Stan Sports  09" start="20260114013000 +0000" stop="20260114033000 +0000">
+    <title lang="en">Australian Open: McCabe vs Budkov Kjaer</title>
+  </programme>
+  <programme channel="Stan Sports  10" start="20260114020000 +0000" stop="20260114040000 +0000">
+    <title lang="en">Australian Open: Bartunkova vs Smith</title>
+  </programme>
+  <programme channel="Stan Sports  11" start="20260114020000 +0000" stop="20260114040000 +0000">
+    <title lang="en">Adelaide International: Valentova vs Keys</title>
+  </programme>
+  <programme channel="Stan Sports  12" start="20260114020000 +0000" stop="20260114040000 +0000">
+    <title lang="en">Adelaide International: Opelka vs Paul</title>
+  </programme>
+  <programme channel="Stan Sports  13" start="20260114023000 +0000" stop="20260114043000 +0000">
+    <title lang="en">Hobart International: Jovic vs Zarazua</title>
+  </programme>
+  <programme channel="Stan Sports  14" start="20260114030000 +0000" stop="20260114050000 +0000">
+    <title lang="en">Australian Open: Hunter vs Radivojevic</title>
+  </programme>
+  <programme channel="Stan Sports  15" start="20260114033000 +0000" stop="20260114053000 +0000">
+    <title lang="en">Australian Open: Liu vs Inglis</title>
+  </programme>
+  <programme channel="Stan Sports  16" start="20260114043000 +0000" stop="20260114063000 +0000">
+    <title lang="en">Australian Open: Kubler vs Gaubas</title>
+  </programme>
+  <programme channel="Stan Sports  17" start="20260114043000 +0000" stop="20260114063000 +0000">
+    <title lang="en">Adelaide International: Shnaider vs Siniakova</title>
+  </programme>
+  <programme channel="Stan Sports  18" start="20260114043000 +0000" stop="20260114063000 +0000">
+    <title lang="en">Adelaide International: Vukic vs Vavassori</title>
+  </programme>
+  <programme channel="Stan Sports  19" start="20260114060000 +0000" stop="20260114080000 +0000">
+    <title lang="en">Australian Open: Svitolina vs Anisimova</title>
+  </programme>
+  <programme channel="Stan Sports  20" start="20260114060000 +0000" stop="20260114080000 +0000">
+    <title lang="en">Adelaide International: Putintseva vs Navarro</title>
+  </programme>
+  <programme channel="Stan Sports  21" start="20260114073000 +0000" stop="20260114093000 +0000">
+    <title lang="en">Hobart International: Wang vs TBD</title>
+  </programme>
+  <programme channel="Stan Sports  22" start="20260114080000 +0000" stop="20260114100000 +0000">
+    <title lang="en">Adelaide International: Davidovich Fokina vs Hijikata</title>
+  </programme>
+  <programme channel="Stan Sports  23" start="20260114080000 +0000" stop="20260114100000 +0000">
+    <title lang="en">Adelaide International: Kokkinakis vs Vacherot</title>
+  </programme>
+  <programme channel="Stan Sports  24" start="20260114083000 +0000" stop="20260114103000 +0000">
+    <title lang="en">Australian Open: 1 Point Slam</title>
+  </programme>
+  <programme channel="Stan Sports  25" start="20260114093000 +0000" stop="20260114113000 +0000">
+    <title lang="en">Adelaide International: Joint vs Tomljanovic</title>
+  </programme>
+  <programme channel="VIX+  01" start="20260113054500 +0000" stop="20260113074500 +0000">
+    <title lang="en">Liga MX (Clausura): Puebla vs Mazatlán FC</title>
+  </programme>
+  <programme channel="VIX+  02" start="20260113074500 +0000" stop="20260113094500 +0000">
+    <title lang="en">Liga MX (Clausura): Necaxa vs Monterrey</title>
+  </programme>
+  <programme channel="Tennis  01" start="20260113060000 +0000" stop="20260113080000 +0000">
+    <title lang="en">Australian Open: Court 5 Qualifying Second Round</title>
+  </programme>
+  <programme channel="Tennis  02" start="20260113060000 +0000" stop="20260113080000 +0000">
+    <title lang="en">Australian Open: Court 8 Qualifying Second Round</title>
+  </programme>
+  <programme channel="Tennis  03" start="20260113060000 +0000" stop="20260113080000 +0000">
+    <title lang="en">Australian Open: Kia Arena Qualifying Second Round</title>
+  </programme>
+  <programme channel="Tennis  04" start="20260113060000 +0000" stop="20260113080000 +0000">
+    <title lang="en">Australian Open: Court 7 Qualifying Second Round</title>
+  </programme>
+  <programme channel="Tennis  05" start="20260113060000 +0000" stop="20260113080000 +0000">
+    <title lang="en">Australian Open: Court 6 Qualifying Second Round</title>
+  </programme>
+  <programme channel="Tennis  06" start="20260113060000 +0000" stop="20260113080000 +0000">
+    <title lang="en">Australian Open: Court 12 Qualifying Second Round</title>
+  </programme>
+  <programme channel="Tennis  07" start="20260113060000 +0000" stop="20260113080000 +0000">
+    <title lang="en">Australian Open: Court 14 Qualifying Second Round</title>
+  </programme>
+  <programme channel="Tennis  08" start="20260113060000 +0000" stop="20260113080000 +0000">
+    <title lang="en">Australian Open: Court 15 Qualifying Second Round</title>
+  </programme>
+  <programme channel="Tennis  09" start="20260113060000 +0000" stop="20260113080000 +0000">
+    <title lang="en">Australian Open: Court 16 Qualifying Second Round</title>
+  </programme>
+  <programme channel="Tennis  10" start="20260113060000 +0000" stop="20260113080000 +0000">
+    <title lang="en">Australian Open: Court 11 Qualifying Second Round</title>
+  </programme>
+  <programme channel="Tennis  11" start="20260113060000 +0000" stop="20260113080000 +0000">
+    <title lang="en">Australian Open: Court 13 Qualifying Second Round</title>
+  </programme>
+  <programme channel="Tennis  12" start="20260113060000 +0000" stop="20260113080000 +0000">
+    <title lang="en">Australian Open: 1573 Arena Qualifying Second Round</title>
+  </programme>
+  <programme channel="Tennis  13" start="20260113060000 +0000" stop="20260113080000 +0000">
+    <title lang="en">Australian Open: Court 17 Qualifying Second Round</title>
+  </programme>
+  <programme channel="Tennis  14" start="20260113060000 +0000" stop="20260113080000 +0000">
+    <title lang="en">Australian Open: ANZ Arena Qualifying Second Round</title>
+  </programme>
+  <programme channel="Tennis  15" start="20260113233000 +0000" stop="20260114013000 +0000">
+    <title lang="en">Shelton, Ben vs Comesana, Francisco</title>
+  </programme>
+  <programme channel="Tennis  16" start="20260114004000 +0000" stop="20260114024000 +0000">
+    <title lang="en">Darderi, Luciano vs Tabilo, Alejandro</title>
+  </programme>
+  <programme channel="Tennis  17" start="20260114013000 +0000" stop="20260114033000 +0000">
+    <title lang="en">Munar, Jaume vs Cerundolo, Francisco</title>
+  </programme>
+  <programme channel="Tennis  18" start="20260114013000 +0000" stop="20260114033000 +0000">
+    <title lang="en">Kasatkina, Daria vs Cristian, Jaqueline</title>
+  </programme>
+  <programme channel="Tennis  19" start="20260114013000 +0000" stop="20260114033000 +0000">
+    <title lang="en">Vondrousova, Marketa vs Birrell, Kimberly</title>
+  </programme>
+  <programme channel="Tennis  20" start="20260114023000 +0000" stop="20260114043000 +0000">
+    <title lang="en">Norrie, Cameron vs Mpetshi Perricard, Giovanni</title>
+  </programme>
+  <programme channel="Tennis  21" start="20260114024000 +0000" stop="20260114044000 +0000">
+    <title lang="en">Opelka, Reilly vs Paul, Tommy</title>
+  </programme>
+  <programme channel="Tennis  22" start="20260114024000 +0000" stop="20260114044000 +0000">
+    <title lang="en">Valentova, Tereza vs Keys, Madison</title>
+  </programme>
+  <programme channel="Tennis  23" start="20260114030000 +0000" stop="20260114050000 +0000">
+    <title lang="en">Selekhmeteva, Oksana vs Linette, Magda</title>
+  </programme>
+  <programme channel="Tennis  24" start="20260114053000 +0000" stop="20260114073000 +0000">
+    <title lang="en">Vukic, Aleksandar vs Vavassori, Andrea</title>
+  </programme>
+  <programme channel="Tennis  25" start="20260114053000 +0000" stop="20260114073000 +0000">
+    <title lang="en">Shnaider, Diana vs Siniakova, Katerina</title>
+  </programme>
+  <programme channel="Tennis  26" start="20260114060000 +0000" stop="20260114080000 +0000">
+    <title lang="en">Marozsan, Fabian vs Ruud, Casper</title>
+  </programme>
+  <programme channel="Tennis  27" start="20260114064000 +0000" stop="20260114084000 +0000">
+    <title lang="en">Putintseva, Yulia vs Navarro, Emma</title>
+  </programme>
+  <programme channel="Tennis  28" start="20260114064000 +0000" stop="20260114084000 +0000">
+    <title lang="en">Bouzkova M, Stefani L vs Danilina A, Krunic A</title>
+  </programme>
+  <programme channel="Tennis  29" start="20260114071000 +0000" stop="20260114091000 +0000">
+    <title lang="en">Medjedovic, Hamad vs Mensik, Jakub</title>
+  </programme>
+  <programme channel="Tennis  30" start="20260114075000 +0000" stop="20260114095000 +0000">
+    <title lang="en">Babos T, Fernandez L A vs Siniakova K, Zhang S</title>
+  </programme>
+  <programme channel="Tennis  31" start="20260114090000 +0000" stop="20260114110000 +0000">
+    <title lang="en">Kokkinakis, Thanasi vs Vacherot, Valentin</title>
+  </programme>
+  <programme channel="Tennis  32" start="20260114090000 +0000" stop="20260114110000 +0000">
+    <title lang="en">Davidovich Fokina, Alejandro vs Hijikata, Rinky</title>
+  </programme>
+  <programme channel="Tennis  33" start="20260114103000 +0000" stop="20260114123000 +0000">
+    <title lang="en">Joint, Maya vs Tomljanovic, Ajla</title>
+  </programme>
+  <programme channel="Flo Hockey  02" start="20260113103000 +0000" stop="20260113123000 +0000">
+    <title lang="en">ECHL: Greenville vs Savannah</title>
+  </programme>
+  <programme channel="Flo Hockey  03" start="20260113113000 +0000" stop="20260113133000 +0000">
+    <title lang="en">EHL: Bridgewater vs Providence</title>
+  </programme>
+  <programme channel="Flo Hockey  04" start="20260113120000 +0000" stop="20260113140000 +0000">
+    <title lang="en">EHLPremier: New England vs Bridgewater</title>
+  </programme>
+  <programme channel="Flo Hockey  05" start="20260113120000 +0000" stop="20260113140000 +0000">
+    <title lang="en">EHL: Pennsylvania vs Philly Little Flyers</title>
+  </programme>
+  <programme channel="Flo Hockey  06" start="20260113010000 +0000" stop="20260113030000 +0000">
+    <title lang="en">OJHL: Royals vs Golden Hawks</title>
+  </programme>
+  <programme channel="Flo Hockey  07" start="20260113020000 +0000" stop="20260113040000 +0000">
+    <title lang="en">KIJHL: Quesnel vs Williams Lake</title>
+  </programme>
+  <programme channel="Flo Hockey  08" start="20260113020000 +0000" stop="20260113040000 +0000">
+    <title lang="en">OHL: Tavares vs McDavid</title>
+  </programme>
+  <programme channel="Flo Hockey  09" start="20260113040000 +0000" stop="20260113060000 +0000">
+    <title lang="en">OHL: Byfield vs Suzuki</title>
+  </programme>
+  <programme channel="Flo Hockey  10" start="20260113060000 +0000" stop="20260113080000 +0000">
+    <title lang="en">NCAA DIII Men''s: Westfield State vs Saint Anselm</title>
+  </programme>
+  <programme channel="Flo Hockey  11" start="20260113063000 +0000" stop="20260113083000 +0000">
+    <title lang="en">NE10 Men''s Hockey: Middlebury College vs Saint Michaels</title>
+  </programme>
+  <programme channel="Flo Hockey  12" start="20260113070000 +0000" stop="20260113090000 +0000">
+    <title lang="en">NOJHL: French River vs Powassan</title>
+  </programme>
+  <programme channel="Flo Hockey  13" start="20260113070000 +0000" stop="20260113090000 +0000">
+    <title lang="en">ECHL: South Carolina vs Orlando</title>
+  </programme>
+  <programme channel="Flo Hockey  14" start="20260113070000 +0000" stop="20260113090000 +0000">
+    <title lang="en">AHL: Springfield vs Charlotte</title>
+  </programme>
+  <programme channel="Flo Hockey  15" start="20260113070000 +0000" stop="20260113090000 +0000">
+    <title lang="en">GOHL: Thornton vs Scheifele</title>
+  </programme>
+  <programme channel="Flo Hockey  16" start="20260113072000 +0000" stop="20260113092000 +0000">
+    <title lang="en">EOJHL: Embrun vs Ottawa</title>
+  </programme>
+  <programme channel="Flo Hockey  17" start="20260113080000 +0000" stop="20260113100000 +0000">
+    <title lang="en">SJHL: Estevan vs Yorkton</title>
+  </programme>
+  <programme channel="Flo Hockey  18" start="20260113080000 +0000" stop="20260113100000 +0000">
+    <title lang="en">AEHLU15: Tigers vs Hawks</title>
+  </programme>
+  <programme channel="Flo Hockey  19" start="20260113080000 +0000" stop="20260113100000 +0000">
+    <title lang="en">AHL: Grand Rapids vs Milwaukee</title>
+  </programme>
+  <programme channel="Flo Hockey  20" start="20260113080000 +0000" stop="20260113100000 +0000">
+    <title lang="en">AHL: Manitoba vs Rockford</title>
+  </programme>
+  <programme channel="Flo Hockey  21" start="20260113080000 +0000" stop="20260113100000 +0000">
+    <title lang="en">AHL: Coachella Valley vs Texas</title>
+  </programme>
+  <programme channel="Flo Hockey  22" start="20260113083000 +0000" stop="20260113103000 +0000">
+    <title lang="en">MJHL: Dauphin vs Virden</title>
+  </programme>
+  <programme channel="Flo Hockey  23" start="20260113083000 +0000" stop="20260113103000 +0000">
+    <title lang="en">MJHL: WPG Blues vs Waywayseecappo</title>
+  </programme>
+  <programme channel="Flo Hockey  24" start="20260113083000 +0000" stop="20260113103000 +0000">
+    <title lang="en">S18AHL: Mustangs U18 A vs ND Hounds U18 A</title>
+  </programme>
+  <programme channel="Flo Hockey  25" start="20260113083000 +0000" stop="20260113103000 +0000">
+    <title lang="en">MJHL: Selkirk vs Winkler</title>
+  </programme>
+  <programme channel="Flo Hockey  26" start="20260113083000 +0000" stop="20260113103000 +0000">
+    <title lang="en">MJHL: Niverville vs Monarchs</title>
+  </programme>
+  <programme channel="Flo Hockey  27" start="20260113083000 +0000" stop="20260113103000 +0000">
+    <title lang="en">SJHL: Weyburn vs Humboldt</title>
+  </programme>
+  <programme channel="Flo Hockey  28" start="20260113084500 +0000" stop="20260113104500 +0000">
+    <title lang="en">AEHLU18: Oilers Orange vs Oilers Blue</title>
+  </programme>
+  <programme channel="Flo Hockey  29" start="20260113090000 +0000" stop="20260113110000 +0000">
+    <title lang="en">ManitobaU18AAA: Parkland U18 AAA vs Chiefs U18 AAA</title>
+  </programme>
+  <programme channel="Flo Hockey  30" start="20260113090000 +0000" stop="20260113110000 +0000">
+    <title lang="en">KIJHL: Columbia Valley vs Fernie</title>
+  </programme>
+  <programme channel="Flo Hockey  31" start="20260113090500 +0000" stop="20260113110500 +0000">
+    <title lang="en">BCHL: Brooks vs Okotoks</title>
+  </programme>
+  <programme channel="Flo Hockey  32" start="20260113090500 +0000" stop="20260113110500 +0000">
+    <title lang="en">AHL: Ontario vs Colorado</title>
+  </programme>
+  <programme channel="Flo Hockey  33" start="20260113103000 +0000" stop="20260113123000 +0000">
+    <title lang="en">VIJHL: Nanaimo vs Kerry Park</title>
+  </programme>
+  <programme channel="AHL  01" start="20260113070000 +0000" stop="20260113090000 +0000">
+    <title lang="en">AHL: Springfield vs Charlotte</title>
+  </programme>
+  <programme channel="AHL  02" start="20260113080000 +0000" stop="20260113100000 +0000">
+    <title lang="en">AHL: Grand Rapids vs Milwaukee</title>
+  </programme>
+  <programme channel="AHL  03" start="20260113080000 +0000" stop="20260113100000 +0000">
+    <title lang="en">AHL: Manitoba vs Rockford</title>
+  </programme>
+  <programme channel="AHL  04" start="20260113080000 +0000" stop="20260113100000 +0000">
+    <title lang="en">AHL: Coachella Valley vs Texas</title>
+  </programme>
+  <programme channel="AHL  05" start="20260113090500 +0000" stop="20260113110500 +0000">
+    <title lang="en">AHL: Ontario vs Colorado</title>
+  </programme>
+  <programme channel="CHL  01" start="20260113020000 +0000" stop="20260113040000 +0000">
+    <title lang="en">OHL: Tavares vs McDavid</title>
+  </programme>
+  <programme channel="CHL  02" start="20260113040000 +0000" stop="20260113060000 +0000">
+    <title lang="en">OHL: Byfield vs Suzuki</title>
+  </programme>
+  <programme channel="CHL  03" start="20260113075000 +0000" stop="20260113095000 +0000">
+    <title lang="en">WHL: Brandon VS Prince Albert</title>
+  </programme>
+  <programme channel="CHL  04" start="20260113095500 +0000" stop="20260113115500 +0000">
+    <title lang="en">WHL: Moose Jaw VS Portland</title>
+  </programme>
+  <programme channel="Flo Wrestling  01" start="20260113043000 +0000" stop="20260113063000 +0000">
+    <title lang="en">George School PA @ Westtown School PA</title>
+  </programme>
+  <programme channel="Flo Wrestling  02" start="20260113055000 +0000" stop="20260113075000 +0000">
+    <title lang="en">Mount St Joseph vs Ohio Northern</title>
+  </programme>
+  <programme channel="Flo Wrestling  03" start="20260113060000 +0000" stop="20260113080000 +0000">
+    <title lang="en">Gow School NY @ St Francis NY</title>
+  </programme>
+  <programme channel="Flo Wrestling  04" start="20260113063000 +0000" stop="20260113083000 +0000">
+    <title lang="en">Morris Knolls Hs NJ @ Ridge NJ</title>
+  </programme>
+  <programme channel="Flo Wrestling  05" start="20260113070000 +0000" stop="20260113090000 +0000">
+    <title lang="en">Forest Hills vs Bishop McCort</title>
+  </programme>
+  <programme channel="Flo Wrestling  06" start="20260113070000 +0000" stop="20260113090000 +0000">
+    <title lang="en">Spring Valley NV @ SLAM! NEVADA NV</title>
+  </programme>
+  <programme channel="Flo Wrestling  07" start="20260113070000 +0000" stop="20260113090000 +0000">
+    <title lang="en">Frisco Memorial TX vs Frisco Heritage</title>
+  </programme>
+  <programme channel="Flo Wrestling  08" start="20260113070000 +0000" stop="20260113090000 +0000">
+    <title lang="en">Juab UT @ Layton UT</title>
+  </programme>
+  <programme channel="Flo Wrestling  09" start="20260113080000 +0000" stop="20260113100000 +0000">
+    <title lang="en">Dakota Wesleyan vs Briar Cliff</title>
+  </programme>
+  <programme channel="Flo Wrestling  10" start="20260113080000 +0000" stop="20260113100000 +0000">
+    <title lang="en">Barton KS @ Pratt Community College KS</title>
+  </programme>
+  <programme channel="Flo Hoops  01" start="20260113120000 +0000" stop="20260113140000 +0000">
+    <title lang="en">Bard vs Mount Holyoke</title>
+  </programme>
+  <programme channel="Flo Hoops  02" start="20260113010000 +0000" stop="20260113030000 +0000">
+    <title lang="en">Babson vs Springfield</title>
+  </programme>
+  <programme channel="Flo Hoops  03" start="20260113050000 +0000" stop="20260113070000 +0000">
+    <title lang="en">Trinity College CT vs Babson</title>
+  </programme>
+  <programme channel="Flo Hoops  04" start="20260113053000 +0000" stop="20260113073000 +0000">
+    <title lang="en">Pace vs Adelphi</title>
+  </programme>
+  <programme channel="Flo Hoops  05" start="20260113053000 +0000" stop="20260113073000 +0000">
+    <title lang="en">Saint Anselm vs SNHU</title>
+  </programme>
+  <programme channel="Flo Hoops  06" start="20260113053000 +0000" stop="20260113073000 +0000">
+    <title lang="en">Saint Michaels vs Franklin Pierce</title>
+  </programme>
+  <programme channel="Flo Hoops  07" start="20260113053000 +0000" stop="20260113073000 +0000">
+    <title lang="en">Assumption vs SCSU</title>
+  </programme>
+  <programme channel="Flo Hoops  08" start="20260113063000 +0000" stop="20260113083000 +0000">
+    <title lang="en">TAMIU vs A&amp;M Kingsville</title>
+  </programme>
+  <programme channel="Flo Hoops  09" start="20260113063000 +0000" stop="20260113083000 +0000">
+    <title lang="en">UT Permian Basin vs Angelo State</title>
+  </programme>
+  <programme channel="Flo Hoops  10" start="20260113063000 +0000" stop="20260113083000 +0000">
+    <title lang="en">Emerson vs MIT</title>
+  </programme>
+  <programme channel="Flo Hoops  11" start="20260113070000 +0000" stop="20260113090000 +0000">
+    <title lang="en">USCGA vs Clark MA</title>
+  </programme>
+  <programme channel="Flo Hoops  12" start="20260113070000 +0000" stop="20260113090000 +0000">
+    <title lang="en">WPI vs Salve Regina</title>
+  </programme>
+  <programme channel="Flo Hoops  13" start="20260113083000 +0000" stop="20260113103000 +0000">
+    <title lang="en">Willamette vs Linfield</title>
+  </programme>
+  <programme channel="Flo Hoops  14" start="20260113090000 +0000" stop="20260113110000 +0000">
+    <title lang="en">Northwest Indian vs Lewis &amp; Clark</title>
+  </programme>
+  <programme channel="Flo College  01" start="20260113120000 +0000" stop="20260113140000 +0000">
+    <title lang="en">Bard vs Mount Holyoke</title>
+  </programme>
+  <programme channel="Flo College  02" start="20260113010000 +0000" stop="20260113030000 +0000">
+    <title lang="en">Babson vs Springfield</title>
+  </programme>
+  <programme channel="Flo College  03" start="20260113050000 +0000" stop="20260113070000 +0000">
+    <title lang="en">Trinity College CT vs Babson</title>
+  </programme>
+  <programme channel="Flo College  04" start="20260113050000 +0000" stop="20260113070000 +0000">
+    <title lang="en">Penn vs Drexel</title>
+  </programme>
+  <programme channel="Flo College  05" start="20260113053000 +0000" stop="20260113073000 +0000">
+    <title lang="en">Pace vs Adelphi</title>
+  </programme>
+  <programme channel="Flo College  06" start="20260113053000 +0000" stop="20260113073000 +0000">
+    <title lang="en">Saint Anselm vs SNHU</title>
+  </programme>
+  <programme channel="Flo College  07" start="20260113053000 +0000" stop="20260113073000 +0000">
+    <title lang="en">Saint Michaels vs Franklin Pierce</title>
+  </programme>
+  <programme channel="Flo College  08" start="20260113053000 +0000" stop="20260113073000 +0000">
+    <title lang="en">Assumption vs SCSU</title>
+  </programme>
+  <programme channel="Flo College  09" start="20260113055000 +0000" stop="20260113075000 +0000">
+    <title lang="en">Mount St Joseph vs Ohio Northern</title>
+  </programme>
+  <programme channel="Flo College  10" start="20260113060000 +0000" stop="20260113080000 +0000">
+    <title lang="en">Westfield State vs Saint Anselm</title>
+  </programme>
+  <programme channel="Flo College  11" start="20260113063000 +0000" stop="20260113083000 +0000">
+    <title lang="en">Middlebury College vs Saint Michaels</title>
+  </programme>
+  <programme channel="Flo College  12" start="20260113063000 +0000" stop="20260113083000 +0000">
+    <title lang="en">TAMIU vs A&amp;M Kingsville</title>
+  </programme>
+  <programme channel="Flo College  13" start="20260113063000 +0000" stop="20260113083000 +0000">
+    <title lang="en">UT Permian Basin vs Angelo State</title>
+  </programme>
+  <programme channel="Flo College  14" start="20260113063000 +0000" stop="20260113083000 +0000">
+    <title lang="en">Emerson vs MIT</title>
+  </programme>
+  <programme channel="Flo College  15" start="20260113070000 +0000" stop="20260113090000 +0000">
+    <title lang="en">WPI vs Salve Regina</title>
+  </programme>
+  <programme channel="Flo College  16" start="20260113070000 +0000" stop="20260113090000 +0000">
+    <title lang="en">USCGA vs Clark MA</title>
+  </programme>
+  <programme channel="Flo College  17" start="20260113083000 +0000" stop="20260113103000 +0000">
+    <title lang="en">Willamette vs Linfield</title>
+  </programme>
+  <programme channel="Flo College  18" start="20260113090000 +0000" stop="20260113110000 +0000">
+    <title lang="en">Northwest Indian vs Lewis &amp; Clark</title>
+  </programme>
+  <programme channel="Flo Racing  02" start="20260113093000 +0000" stop="20260113113000 +0000">
+    <title lang="en">The Dakar Rally</title>
+  </programme>
+  <programme channel="Flo Racing  03" start="20260113040000 +0000" stop="20260113060000 +0000">
+    <title lang="en">Chili Bowl Nationals</title>
+  </programme>
+  <programme channel="Victory+  01" start="20260113075000 +0000" stop="20260113095000 +0000">
+    <title lang="en">WHL: Brandon VS Prince Albert</title>
+  </programme>
+  <programme channel="Victory+  02" start="20260113095500 +0000" stop="20260113115500 +0000">
+    <title lang="en">WHL: Moose Jaw VS Portland</title>
+  </programme>
+  <programme channel="TSN+  54" start="20260113070000 +0000" stop="20260113090000 +0000">
+    <title lang="en">Canadian Tire Senators Hockey Canucks vs Senators</title>
+  </programme>
+  <programme channel="TSN+  55" start="20260113070000 +0000" stop="20260113090000 +0000">
+    <title lang="en">NCAA Mens Basketball Virginia vs Louisville</title>
+  </programme>
+  <programme channel="TSN+  56" start="20260113070000 +0000" stop="20260113090000 +0000">
+    <title lang="en">Molson Habs Hockey Canadiens vs Capitals</title>
+  </programme>
+  <programme channel="TSN+  57" start="20260113073000 +0000" stop="20260113093000 +0000">
+    <title lang="en">ATP 250 Tennis Adelaide Day #3 Show Court</title>
+  </programme>
+  <programme channel="TSN+  58" start="20260113073000 +0000" stop="20260113093000 +0000">
+    <title lang="en">NCAA Womens Hockey Beanpot Semifinals Northeastern vs Boston University</title>
+  </programme>
+  <programme channel="TSN+  59" start="20260113073000 +0000" stop="20260113093000 +0000">
+    <title lang="en">Winnipeg Jets Pre Game</title>
+  </programme>
+  <programme channel="TSN+  60" start="20260113080000 +0000" stop="20260113100000 +0000">
+    <title lang="en">Winnipeg Jets on TSN Islanders vs Jets</title>
+  </programme>
+  <programme channel="TSN+  61" start="20260113090000 +0000" stop="20260113110000 +0000">
+    <title lang="en">NCAA Mens Basketball Florida State vs Syracuse</title>
+  </programme>
+  <programme channel="TSN+  62" start="20260113090000 +0000" stop="20260113110000 +0000">
+    <title lang="en">SC December Plays of the Month B</title>
+  </programme>
+  <programme channel="TSN+  63" start="20260113090000 +0000" stop="20260113110000 +0000">
+    <title lang="en">NCAA Mens Basketball Florida vs Oklahoma</title>
+  </programme>
+  <programme channel="TSN+  64" start="20260113093000 +0000" stop="20260113113000 +0000">
+    <title lang="en">SPORTSCENTRE N</title>
+  </programme>
+  <programme channel="TSN+  65" start="20260113093000 +0000" stop="20260113113000 +0000">
+    <title lang="en">Toronto Maple Leafs Pre Game</title>
+  </programme>
+  <programme channel="TSN+  66" start="20260113093000 +0000" stop="20260113113000 +0000">
+    <title lang="en">SC Wacky CFL Moments</title>
+  </programme>
+  <programme channel="TSN+  67" start="20260113100000 +0000" stop="20260113120000 +0000">
+    <title lang="en">Molson Leafs Hockey Maple Leafs vs Mammoth</title>
+  </programme>
+  <programme channel="TSN+  68" start="20260113100000 +0000" stop="20260113120000 +0000">
+    <title lang="en">SC Top 10 Grey Cup Games B</title>
+  </programme>
+  <programme channel="TSN+  69" start="20260113103000 +0000" stop="20260113123000 +0000">
+    <title lang="en">SPORTSCENTRE O</title>
+  </programme>
+  <programme channel="TSN+  70" start="20260113103000 +0000" stop="20260113123000 +0000">
+    <title lang="en">SC Top 50 Goals of All Time B</title>
+  </programme>
+  <programme channel="TSN+  71" start="20260113110000 +0000" stop="20260113130000 +0000">
+    <title lang="en">ATP 250 Tennis Adelaide Day #3 Centre Court</title>
+  </programme>
+  <programme channel="TSN+  72" start="20260113110000 +0000" stop="20260113130000 +0000">
+    <title lang="en">SC CFL Plays of the Year A</title>
+  </programme>
+  <programme channel="TSN+  73" start="20260113110000 +0000" stop="20260113130000 +0000">
+    <title lang="en">SPORTSCENTRE P</title>
+  </programme>
+  <programme channel="TSN+  74" start="20260113113000 +0000" stop="20260113133000 +0000">
+    <title lang="en">SC Top Plays of the Year A</title>
+  </programme>
+  <programme channel="TSN+  75" start="20260113113000 +0000" stop="20260113133000 +0000">
+    <title lang="en">SC Top Overtime Moments</title>
+  </programme>
+  <programme channel="TSN+  01" start="20260113013000 +0000" stop="20260113033000 +0000">
+    <title lang="en">2026 IIHF U18 Womens World Championship Canada vs Hungary A</title>
+  </programme>
+  <programme channel="TSN+  02" start="20260113020000 +0000" stop="20260113040000 +0000">
+    <title lang="en">SPORTSCENTRE A</title>
+  </programme>
+  <programme channel="TSN+  03" start="20260113030000 +0000" stop="20260113050000 +0000">
+    <title lang="en">SC with Jay Onrait A</title>
+  </programme>
+  <programme channel="TSN+  04" start="20260113030000 +0000" stop="20260113050000 +0000">
+    <title lang="en">SPORTSCENTRE B</title>
+  </programme>
+  <programme channel="TSN+  05" start="20260113033000 +0000" stop="20260113053000 +0000">
+    <title lang="en">SPORTSCENTRE C</title>
+  </programme>
+  <programme channel="TSN+  06" start="20260113040000 +0000" stop="20260113060000 +0000">
+    <title lang="en">SC with Jay Onrait B</title>
+  </programme>
+  <programme channel="TSN+  07" start="20260113040000 +0000" stop="20260113060000 +0000">
+    <title lang="en">2026 IIHF U18 Womens World Championship Canada vs Hungary B</title>
+  </programme>
+  <programme channel="TSN+  08" start="20260113043000 +0000" stop="20260113063000 +0000">
+    <title lang="en">SPORTSCENTRE D</title>
+  </programme>
+  <programme channel="TSN+  09" start="20260113050000 +0000" stop="20260113070000 +0000">
+    <title lang="en">SC with Jay Onrait C</title>
+  </programme>
+  <programme channel="TSN+  10" start="20260113053000 +0000" stop="20260113073000 +0000">
+    <title lang="en">SPORTSCENTRE E</title>
+  </programme>
+  <programme channel="TSN+  11" start="20260113060000 +0000" stop="20260113080000 +0000">
+    <title lang="en">SC with Jay Onrait D</title>
+  </programme>
+  <programme channel="TSN+  12" start="20260113063000 +0000" stop="20260113083000 +0000">
+    <title lang="en">SPORTSCENTRE F</title>
+  </programme>
+  <programme channel="TSN+  13" start="20260113063000 +0000" stop="20260113083000 +0000">
+    <title lang="en">2026 IIHF U18 Womens World Championship Canada vs Hungary C</title>
+  </programme>
+  <programme channel="TSN+  14" start="20260113070000 +0000" stop="20260113090000 +0000">
+    <title lang="en">SC with Jay Onrait E</title>
+  </programme>
+  <programme channel="TSN+  15" start="20260113073000 +0000" stop="20260113093000 +0000">
+    <title lang="en">SPORTSCENTRE G</title>
+  </programme>
+  <programme channel="TSN+  16" start="20260113080000 +0000" stop="20260113100000 +0000">
+    <title lang="en">SC with Jay Onrait F</title>
+  </programme>
+  <programme channel="TSN+  17" start="20260113083000 +0000" stop="20260113103000 +0000">
+    <title lang="en">SPORTSCENTRE H</title>
+  </programme>
+  <programme channel="TSN+  18" start="20260113090000 +0000" stop="20260113110000 +0000">
+    <title lang="en">SC with Jay Onrait G</title>
+  </programme>
+  <programme channel="TSN+  19" start="20260113090000 +0000" stop="20260113110000 +0000">
+    <title lang="en">2026 IIHF U18 Womens World Championship Canada vs Hungary D</title>
+  </programme>
+  <programme channel="TSN+  20" start="20260113093000 +0000" stop="20260113113000 +0000">
+    <title lang="en">SPORTSCENTRE I</title>
+  </programme>
+  <programme channel="TSN+  21" start="20260113100000 +0000" stop="20260113120000 +0000">
+    <title lang="en">SC with Jay Onrait H</title>
+  </programme>
+  <programme channel="TSN+  22" start="20260113103000 +0000" stop="20260113123000 +0000">
+    <title lang="en">SPORTSCENTRE J</title>
+  </programme>
+  <programme channel="TSN+  23" start="20260113110000 +0000" stop="20260113130000 +0000">
+    <title lang="en">SC with Jay Onrait I</title>
+  </programme>
+  <programme channel="TSN+  24" start="20260113113000 +0000" stop="20260113133000 +0000">
+    <title lang="en">SPORTSCENTRE K</title>
+  </programme>
+  <programme channel="TSN+  25" start="20260113113000 +0000" stop="20260113133000 +0000">
+    <title lang="en">SC Top 50 Goals of All Time A</title>
+  </programme>
+  <programme channel="TSN+  26" start="20260113120000 +0000" stop="20260113140000 +0000">
+    <title lang="en">Pat McAfee Show A</title>
+  </programme>
+  <programme channel="TSN+  27" start="20260113120000 +0000" stop="20260113140000 +0000">
+    <title lang="en">Breaking Down Barriers Girls Just Wanna Box A</title>
+  </programme>
+  <programme channel="TSN+  28" start="20260113120000 +0000" stop="20260113140000 +0000">
+    <title lang="en">First Take A</title>
+  </programme>
+  <programme channel="TSN+  29" start="20260113123000 +0000" stop="20260113143000 +0000">
+    <title lang="en">SC Top Comebacks of All Time</title>
+  </programme>
+  <programme channel="TSN+  30" start="20260113123000 +0000" stop="20260113143000 +0000">
+    <title lang="en">SC Top 10 Grey Cup Games A</title>
+  </programme>
+  <programme channel="TSN+  31" start="20260113123000 +0000" stop="20260113143000 +0000">
+    <title lang="en">2026 IIHF U18 Womens World Championship USA vs Finland</title>
+  </programme>
+  <programme channel="TSN+  32" start="20260113125500 +0000" stop="20260113145500 +0000">
+    <title lang="en">Champions Hockey League Semifinal Brynäs IF vs Frölunda Gothenburg</title>
+  </programme>
+  <programme channel="TSN+  33" start="20260113010000 +0000" stop="20260113030000 +0000">
+    <title lang="en">Why We Love Sports A</title>
+  </programme>
+  <programme channel="TSN+  34" start="20260113020000 +0000" stop="20260113040000 +0000">
+    <title lang="en">SC December Plays of the Month A</title>
+  </programme>
+  <programme channel="TSN+  35" start="20260113020000 +0000" stop="20260113040000 +0000">
+    <title lang="en">2025 Montanas Brier Final</title>
+  </programme>
+  <programme channel="TSN+  36" start="20260113023000 +0000" stop="20260113043000 +0000">
+    <title lang="en">SC Top Games of the Year A</title>
+  </programme>
+  <programme channel="TSN+  37" start="20260113030000 +0000" stop="20260113050000 +0000">
+    <title lang="en">NBA Today A</title>
+  </programme>
+  <programme channel="TSN+  38" start="20260113033000 +0000" stop="20260113053000 +0000">
+    <title lang="en">Champions Hockey League Semifinal EV Zug vs Luleå Hockey</title>
+  </programme>
+  <programme channel="TSN+  39" start="20260113040000 +0000" stop="20260113060000 +0000">
+    <title lang="en">NFL Live A</title>
+  </programme>
+  <programme channel="TSN+  40" start="20260113040000 +0000" stop="20260113060000 +0000">
+    <title lang="en">OverDrive A</title>
+  </programme>
+  <programme channel="TSN+  41" start="20260113040000 +0000" stop="20260113060000 +0000">
+    <title lang="en">2026 IIHF U18 Womens World Championship Canada vs Sweden A</title>
+  </programme>
+  <programme channel="TSN+  42" start="20260113043000 +0000" stop="20260113063000 +0000">
+    <title lang="en">NCAA Womens Hockey Beanpot Semifinals Harvard vs Boston College</title>
+  </programme>
+  <programme channel="TSN+  43" start="20260113050000 +0000" stop="20260113070000 +0000">
+    <title lang="en">College Football Live A</title>
+  </programme>
+  <programme channel="TSN+  44" start="20260113050000 +0000" stop="20260113070000 +0000">
+    <title lang="en">Motorcycle Experience A</title>
+  </programme>
+  <programme channel="TSN+  45" start="20260113053000 +0000" stop="20260113073000 +0000">
+    <title lang="en">Pardon The Interruption A</title>
+  </programme>
+  <programme channel="TSN+  46" start="20260113053000 +0000" stop="20260113073000 +0000">
+    <title lang="en">ATP 250 Tennis Auckland Day #3</title>
+  </programme>
+  <programme channel="TSN+  47" start="20260113053000 +0000" stop="20260113073000 +0000">
+    <title lang="en">SC Top Mascot Moments</title>
+  </programme>
+  <programme channel="TSN+  48" start="20260113060000 +0000" stop="20260113080000 +0000">
+    <title lang="en">Australian Open Qualifying Day #3 Court TBD</title>
+  </programme>
+  <programme channel="TSN+  49" start="20260113060000 +0000" stop="20260113080000 +0000">
+    <title lang="en">SPORTSCENTRE L</title>
+  </programme>
+  <programme channel="TSN+  50" start="20260113060000 +0000" stop="20260113080000 +0000">
+    <title lang="en">SC Outrageous NASCAR Moments</title>
+  </programme>
+  <programme channel="TSN+  51" start="20260113063000 +0000" stop="20260113083000 +0000">
+    <title lang="en">SC Top 50 Saves of All Time</title>
+  </programme>
+  <programme channel="TSN+  52" start="20260113063000 +0000" stop="20260113083000 +0000">
+    <title lang="en">SPORTSCENTRE M</title>
+  </programme>
+  <programme channel="TSN+  53" start="20260113070000 +0000" stop="20260113090000 +0000">
+    <title lang="en">NCAA Mens Basketball Boston College vs Clemson</title>
+  </programme>
+  <programme channel="Sportsnet+  01" start="20260113050000 +0000" stop="20260113070000 +0000">
+    <title lang="en">Sportsnet Central Jan 12</title>
+  </programme>
+  <programme channel="Sportsnet+  02" start="20260113090000 +0000" stop="20260113110000 +0000">
+    <title lang="en">Halford &amp; Brough Jan 13</title>
+  </programme>
+  <programme channel="Sportsnet+  03" start="20260113090000 +0000" stop="20260113110000 +0000">
+    <title lang="en">The JD Bunkis Podcast Jan 13</title>
+  </programme>
+  <programme channel="Sportsnet+  04" start="20260113110000 +0000" stop="20260113130000 +0000">
+    <title lang="en">The Raptors Show Jan 13</title>
+  </programme>
+  <programme channel="Sportsnet+  05" start="20260113120000 +0000" stop="20260113140000 +0000">
+    <title lang="en">The FAN Hockey Show Jan 13</title>
+  </programme>
+  <programme channel="Sportsnet+  06" start="20260113040000 +0000" stop="20260113060000 +0000">
+    <title lang="en">Real Kyper &amp; Bourne Jan 13</title>
+  </programme>
+  <programme channel="Sportsnet+  07" start="20260113060000 +0000" stop="20260113080000 +0000">
+    <title lang="en">The FAN Pregame Jan 13</title>
+  </programme>
+  <programme channel="Sportsnet+  08" start="20260113070000 +0000" stop="20260113090000 +0000">
+    <title lang="en">NHL: Canucks Broadcast Vancouver vs Ottawa Available outside Senators region</title>
+  </programme>
+  <programme channel="Sportsnet+  09" start="20260113070000 +0000" stop="20260113090000 +0000">
+    <title lang="en">NHL: Calgary vs Columbus</title>
+  </programme>
+  <programme channel="Sportsnet+  10" start="20260113070000 +0000" stop="20260113090000 +0000">
+    <title lang="en">NHL: French Language Broadcast Montreal vs Washington Available outside Canadiens region</title>
+  </programme>
+  <programme channel="Sportsnet+  11" start="20260113070000 +0000" stop="20260113090000 +0000">
+    <title lang="en">NHL: Senators Broadcast Vancouver vs Ottawa Available outside Canucks &amp; Senators regions</title>
+  </programme>
+  <programme channel="Sportsnet+  12" start="20260113070000 +0000" stop="20260113090000 +0000">
+    <title lang="en">NHL: Montreal vs Washington Available outside Canadiens region</title>
+  </programme>
+  <programme channel="Sportsnet+  13" start="20260113070000 +0000" stop="20260113090000 +0000">
+    <title lang="en">NHL: French Language Broadcast Vancouver vs Ottawa Available outside Senators region</title>
+  </programme>
+  <programme channel="Sportsnet+  14" start="20260113070000 +0000" stop="20260113090000 +0000">
+    <title lang="en">NHL: Tampa Bay vs Pittsburgh</title>
+  </programme>
+  <programme channel="Sportsnet+  15" start="20260113070000 +0000" stop="20260113090000 +0000">
+    <title lang="en">TGL:  Jupiter Links GC vs New York Golf Club</title>
+  </programme>
+  <programme channel="Sportsnet+  16" start="20260113073000 +0000" stop="20260113093000 +0000">
+    <title lang="en">NHL: Carolina vs St Louis</title>
+  </programme>
+  <programme channel="Sportsnet+  17" start="20260113073000 +0000" stop="20260113093000 +0000">
+    <title lang="en">NHL: Detroit vs Boston</title>
+  </programme>
+  <programme channel="Sportsnet+  18" start="20260113080000 +0000" stop="20260113100000 +0000">
+    <title lang="en">NHL: New York Islanders vs Winnipeg Available outside Jets region</title>
+  </programme>
+  <programme channel="Sportsnet+  19" start="20260113080000 +0000" stop="20260113100000 +0000">
+    <title lang="en">NHL: Edmonton vs Nashville</title>
+  </programme>
+  <programme channel="Sportsnet+  20" start="20260113080000 +0000" stop="20260113100000 +0000">
+    <title lang="en">NBA: San Antonio vs Oklahoma City</title>
+  </programme>
+  <programme channel="Sportsnet+  21" start="20260113080000 +0000" stop="20260113100000 +0000">
+    <title lang="en">NBA: Minnesota vs Milwaukee</title>
+  </programme>
+  <programme channel="Sportsnet+  22" start="20260113100000 +0000" stop="20260113120000 +0000">
+    <title lang="en">NHL: Dallas vs Anaheim</title>
+  </programme>
+  <programme channel="Sportsnet+  23" start="20260113100000 +0000" stop="20260113120000 +0000">
+    <title lang="en">NHL: Toronto vs Utah Available outside Leafs region</title>
+  </programme>
+  <programme channel="MAX US 01" start="20260113190000 +0000" stop="20260113210000 +0000">
+    <title lang="en">Hockey: Red Wings at Bruins</title>
+  </programme>
+  <programme channel="MAX US 02" start="20260113200000 +0000" stop="20260113220000 +0000">
+    <title lang="en">Basketball: UConn at Seton Hall</title>
+  </programme>
+  <programme channel="MAX US 03" start="20260113220000 +0000" stop="20260114000000 +0000">
+    <title lang="en">Hockey: Stars at Ducks</title>
+  </programme>
+  <programme channel="NBA  01" start="20260112070000 +0000" stop="20260112090000 +0000">
+    <title lang="en">Cleveland Cavaliers vs Utah Jazz</title>
+  </programme>
+  <programme channel="NBA  02" start="20260112073000 +0000" stop="20260112093000 +0000">
+    <title lang="en">Indiana Pacers vs Boston Celtics</title>
+  </programme>
+  <programme channel="NBA  03" start="20260112073000 +0000" stop="20260112093000 +0000">
+    <title lang="en">Toronto Raptors vs Philadelphia 76ers</title>
+  </programme>
+  <programme channel="NBA  04" start="20260112083000 +0000" stop="20260112103000 +0000">
+    <title lang="en">Dallas Mavericks vs Brooklyn Nets</title>
+  </programme>
+  <programme channel="NBA  05" start="20260112100000 +0000" stop="20260112120000 +0000">
+    <title lang="en">Sacramento Kings vs Los Angeles Lakers</title>
+  </programme>
+  <programme channel="NBA  06" start="20260112103000 +0000" stop="20260112123000 +0000">
+    <title lang="en">LA Clippers vs Charlotte Hornets</title>
+  </programme>
+  <programme channel="NHL  01" start="20260112063000 +0000" stop="20260112083000 +0000">
+    <title lang="en">Florida Panthers vs Buffalo Sabres (Panthers Broadcast)</title>
+  </programme>
+  <programme channel="NHL  02" start="20260112063000 +0000" stop="20260112083000 +0000">
+    <title lang="en">Florida Panthers vs Buffalo Sabres (Sabres Broadcast)</title>
+  </programme>
+  <programme channel="NHL  03" start="20260112063000 +0000" stop="20260112083000 +0000">
+    <title lang="en">Tampa Bay Lightning vs Philadelphia Flyers (Lightning Broadcast)</title>
+  </programme>
+  <programme channel="NHL  04" start="20260112063000 +0000" stop="20260112083000 +0000">
+    <title lang="en">Tampa Bay Lightning vs Philadelphia Flyers (Flyers Broadcast)</title>
+  </programme>
+  <programme channel="NHL  05" start="20260112063000 +0000" stop="20260112083000 +0000">
+    <title lang="en">Carolina Hurricanes vs Detroit Red Wings (Red Wings Broadcast)</title>
+  </programme>
+  <programme channel="NHL  06" start="20260112063000 +0000" stop="20260112083000 +0000">
+    <title lang="en">Carolina Hurricanes vs Detroit Red Wings (Hurricanes Broadcast)</title>
+  </programme>
+  <programme channel="NHL  07" start="20260112070000 +0000" stop="20260112090000 +0000">
+    <title lang="en">Seattle vs New York Rangers</title>
+  </programme>
+  <programme channel="NHL  08" start="20260112070000 +0000" stop="20260112090000 +0000">
+    <title lang="en">Vancouver Canucks vs Montreal Canadiens (Canadiens Broadcast)</title>
+  </programme>
+  <programme channel="NHL  09" start="20260112073000 +0000" stop="20260112093000 +0000">
+    <title lang="en">New Jersey Devils vs Minnesota Wild (Wild Broadcast)</title>
+  </programme>
+  <programme channel="NHL  10" start="20260112073000 +0000" stop="20260112093000 +0000">
+    <title lang="en">New Jersey Devils vs Minnesota Wild (Devils Broadcast)</title>
+  </programme>
+  <programme channel="NHL  11" start="20260112080000 +0000" stop="20260112100000 +0000">
+    <title lang="en">Edmonton Oilers vs Chicago Blackhawks (Blackhawks Broadcast)</title>
+  </programme>
+  <programme channel="NHL  12" start="20260112080000 +0000" stop="20260112100000 +0000">
+    <title lang="en">Edmonton Oilers vs Chicago Blackhawks (Oilers Broadcast)</title>
+  </programme>
+  <programme channel="NHL  13" start="20260112093000 +0000" stop="20260112113000 +0000">
+    <title lang="en">Toronto Maple Leafs vs Colorado Avalanche (Avalanche Broadcast)</title>
+  </programme>
+  <programme channel="NHL  14" start="20260112093000 +0000" stop="20260112113000 +0000">
+    <title lang="en">Toronto Maple Leafs vs Colorado Avalanche (Maple Leafs Broadcast)</title>
+  </programme>
+  <programme channel="NHL  15" start="20260112093000 +0000" stop="20260112113000 +0000">
+    <title lang="en">Dallas Stars vs Los Angeles Kings (Kings Broadcast)</title>
+  </programme>
+  <programme channel="NHL  16" start="20260112093000 +0000" stop="20260112113000 +0000">
+    <title lang="en">Dallas Stars vs Los Angeles Kings (Stars Broadcast)</title>
+  </programme>
+  <programme channel="NCAAB  01" start="20260112070000 +0000" stop="20260112090000 +0000">
+    <title lang="en">New Orleans vs SE Louisiana</title>
+  </programme>
+  <programme channel="NCAAB  02" start="20260112070000 +0000" stop="20260112090000 +0000">
+    <title lang="en">Maryland Eastern Shore vs Norfolk State</title>
+  </programme>
+  <programme channel="NCAAB  03" start="20260112070000 +0000" stop="20260112090000 +0000">
+    <title lang="en">South Carolina State vs Coppin State</title>
+  </programme>
+  <programme channel="NCAAB  04" start="20260112070000 +0000" stop="20260112090000 +0000">
+    <title lang="en">Houston Christian vs Lamar</title>
+  </programme>
+  <programme channel="NCAAB  05" start="20260112070000 +0000" stop="20260112090000 +0000">
+    <title lang="en">Incarnate Word vs Stephen F Austin</title>
+  </programme>
+  <programme channel="NCAAB  06" start="20260112070000 +0000" stop="20260112090000 +0000">
+    <title lang="en">Delaware State vs Howard</title>
+  </programme>
+  <programme channel="NCAAB  07" start="20260112073000 +0000" stop="20260112093000 +0000">
+    <title lang="en">UT Rio Grande Valley vs Northwestern State</title>
+  </programme>
+  <programme channel="NCAAB  08" start="20260112073000 +0000" stop="20260112093000 +0000">
+    <title lang="en">Nicholls vs McNeese</title>
+  </programme>
+  <programme channel="NCAAB  09" start="20260112073000 +0000" stop="20260112093000 +0000">
+    <title lang="en">Texas A&amp;M Corpus Christi vs East Texas A&amp;M</title>
+  </programme>
+  <programme channel="Peacock Event  01" start="20260112183000 +0000" stop="20260112203000 +0000">
+    <title lang="en">Celtics vs Pacers</title>
+  </programme>
+  <programme channel="Peacock Event  02" start="20260112190000 +0000" stop="20260112210000 +0000">
+    <title lang="en">Performance View BOS vs IND</title>
+  </programme>
+  <programme channel="SEC+  01" start="20260112063000 +0000" stop="20260112083000 +0000">
+    <title lang="en">The Paul Finebaum Show: The Paul Finebaum Show</title>
+  </programme>
+  <programme channel="SEC+  02" start="20260112070000 +0000" stop="20260112090000 +0000">
+    <title lang="en">Others: The Huddle</title>
+  </programme>
+  <programme channel="SEC+  03" start="20260112080000 +0000" stop="20260112100000 +0000">
+    <title lang="en">Others: Sooner Sports Talk</title>
+  </programme>
+  <programme channel="ESPN+  40" start="20260112070000 +0000" stop="20260112090000 +0000">
+    <title lang="en">NCAAM: Delaware State vs Howard</title>
+  </programme>
+  <programme channel="ESPN+  41" start="20260112073000 +0000" stop="20260112093000 +0000">
+    <title lang="en">NHL: New Jersey Devils vs Minnesota Wild (Wild Broadcast)</title>
+  </programme>
+  <programme channel="ESPN+  42" start="20260112073000 +0000" stop="20260112093000 +0000">
+    <title lang="en">NHL: New Jersey Devils vs Minnesota Wild (Devils Broadcast)</title>
+  </programme>
+  <programme channel="ESPN+  43" start="20260112073000 +0000" stop="20260112093000 +0000">
+    <title lang="en">NCAAM: UT Rio Grande Valley vs Northwestern State</title>
+  </programme>
+  <programme channel="ESPN+  44" start="20260112073000 +0000" stop="20260112093000 +0000">
+    <title lang="en">NCAAM: Nicholls vs McNeese</title>
+  </programme>
+  <programme channel="ESPN+  45" start="20260112073000 +0000" stop="20260112093000 +0000">
+    <title lang="en">NCAAM: Texas A&amp;M Corpus Christi vs East Texas A&amp;M</title>
+  </programme>
+  <programme channel="ESPN+  46" start="20260112080000 +0000" stop="20260112100000 +0000">
+    <title lang="en">NHL: Edmonton Oilers vs Chicago Blackhawks (Blackhawks Broadcast)</title>
+  </programme>
+  <programme channel="ESPN+  47" start="20260112080000 +0000" stop="20260112100000 +0000">
+    <title lang="en">NHL: Edmonton Oilers vs Chicago Blackhawks (Oilers Broadcast)</title>
+  </programme>
+  <programme channel="ESPN+  48" start="20260112081000 +0000" stop="20260112101000 +0000">
+    <title lang="en">Cricket: Central Hinds vs Northern Brave Women</title>
+  </programme>
+  <programme channel="ESPN+  49" start="20260112083000 +0000" stop="20260112103000 +0000">
+    <title lang="en">Fútbol Americas: Mon 1-12 Futbol Americas</title>
+  </programme>
+  <programme channel="ESPN+  50" start="20260112090000 +0000" stop="20260112110000 +0000">
+    <title lang="en">CWGYM: Best of Utah</title>
+  </programme>
+  <programme channel="ESPN+  51" start="20260112093000 +0000" stop="20260112113000 +0000">
+    <title lang="en">NHL: Toronto Maple Leafs vs Colorado Avalanche (Avalanche Broadcast)</title>
+  </programme>
+  <programme channel="ESPN+  52" start="20260112093000 +0000" stop="20260112113000 +0000">
+    <title lang="en">NHL: Toronto Maple Leafs vs Colorado Avalanche (Maple Leafs Broadcast)</title>
+  </programme>
+  <programme channel="ESPN+  53" start="20260112093000 +0000" stop="20260112113000 +0000">
+    <title lang="en">NHL: Dallas Stars vs Los Angeles Kings (Kings Broadcast)</title>
+  </programme>
+  <programme channel="ESPN+  54" start="20260112093000 +0000" stop="20260112113000 +0000">
+    <title lang="en">NHL: Dallas Stars vs Los Angeles Kings (Stars Broadcast)</title>
+  </programme>
+  <programme channel="ESPN+  55" start="20260112115500 +0000" stop="20260112135500 +0000">
+    <title lang="en">Cricket: Central Stags vs Northern Brave Men</title>
+  </programme>
+  <programme channel="ESPN+  01" start="20260112100000 +0000" stop="20260112120000 +0000">
+    <title lang="en">Clinton and Friends: Clinton &amp; Friends</title>
+  </programme>
+  <programme channel="ESPN+  02" start="20260112120000 +0000" stop="20260112140000 +0000">
+    <title lang="en">The Pat McAfee Show: The Pat McAfee Show</title>
+  </programme>
+  <programme channel="ESPN+  03" start="20260112120000 +0000" stop="20260112140000 +0000">
+    <title lang="en">The Rich Eisen Show: Mon 1-12 The Rich Eisen Show</title>
+  </programme>
+  <programme channel="ESPN+  04" start="20260112013000 +0000" stop="20260112033000 +0000">
+    <title lang="en">English FA Cup: FA Cup Round 4 Draw Round 4</title>
+  </programme>
+  <programme channel="ESPN+  05" start="20260112020000 +0000" stop="20260112040000 +0000">
+    <title lang="en">English FA Cup: FA Cup Round 3 Review Show Round 3</title>
+  </programme>
+  <programme channel="ESPN+  06" start="20260112022500 +0000" stop="20260112042500 +0000">
+    <title lang="en">English FA Cup: En Español Liverpool vs Barnsley</title>
+  </programme>
+  <programme channel="ESPN+  07" start="20260112023000 +0000" stop="20260112043000 +0000">
+    <title lang="en">English FA Cup: Liverpool vs Barnsley Round 3</title>
+  </programme>
+  <programme channel="ESPN+  08" start="20260112025000 +0000" stop="20260112045000 +0000">
+    <title lang="en">LALIGA: Sevilla FC vs Celta de Vigo</title>
+  </programme>
+  <programme channel="ESPN+  09" start="20260112025500 +0000" stop="20260112045500 +0000">
+    <title lang="en">LALIGA: En Español Sevilla FC vs Celta de Vigo</title>
+  </programme>
+  <programme channel="ESPN+  10" start="20260112030000 +0000" stop="20260112050000 +0000">
+    <title lang="en">Freddie &amp; Harry: Freddie &amp; Harry</title>
+  </programme>
+  <programme channel="ESPN+  11" start="20260112050000 +0000" stop="20260112070000 +0000">
+    <title lang="en">IIHF: Canada vs Hungary</title>
+  </programme>
+  <programme channel="ESPN+  12" start="20260112050000 +0000" stop="20260112070000 +0000">
+    <title lang="en">ESPN FC Daily: Mon 1-12 ESPN FC</title>
+  </programme>
+  <programme channel="ESPN+  13" start="20260112060000 +0000" stop="20260112080000 +0000">
+    <title lang="en">Australian Open: Court 14 Qualifying First Round</title>
+  </programme>
+  <programme channel="ESPN+  14" start="20260112060000 +0000" stop="20260112080000 +0000">
+    <title lang="en">Australian Open: Court 17 Qualifying First Round</title>
+  </programme>
+  <programme channel="ESPN+  15" start="20260112060000 +0000" stop="20260112080000 +0000">
+    <title lang="en">Australian Open: Court 11 Qualifying First Round</title>
+  </programme>
+  <programme channel="ESPN+  16" start="20260112060000 +0000" stop="20260112080000 +0000">
+    <title lang="en">Australian Open: Court 6 Qualifying First Round</title>
+  </programme>
+  <programme channel="ESPN+  17" start="20260112060000 +0000" stop="20260112080000 +0000">
+    <title lang="en">Australian Open: Court 5 Qualifying First Round</title>
+  </programme>
+  <programme channel="ESPN+  18" start="20260112060000 +0000" stop="20260112080000 +0000">
+    <title lang="en">Australian Open: Court 8 Qualifying First Round</title>
+  </programme>
+  <programme channel="ESPN+  19" start="20260112060000 +0000" stop="20260112080000 +0000">
+    <title lang="en">Australian Open: Court 15 Qualifying First Round</title>
+  </programme>
+  <programme channel="ESPN+  20" start="20260112060000 +0000" stop="20260112080000 +0000">
+    <title lang="en">Australian Open: Court 16 Qualifying First Round</title>
+  </programme>
+  <programme channel="ESPN+  21" start="20260112060000 +0000" stop="20260112080000 +0000">
+    <title lang="en">Australian Open: Kia Arena Qualifying First Round</title>
+  </programme>
+  <programme channel="ESPN+  22" start="20260112060000 +0000" stop="20260112080000 +0000">
+    <title lang="en">Australian Open: 1573 Arena Qualifying First Round</title>
+  </programme>
+  <programme channel="ESPN+  23" start="20260112060000 +0000" stop="20260112080000 +0000">
+    <title lang="en">Australian Open: Court 13 Qualifying First Round</title>
+  </programme>
+  <programme channel="ESPN+  24" start="20260112060000 +0000" stop="20260112080000 +0000">
+    <title lang="en">Australian Open: Court 12 Qualifying First Round</title>
+  </programme>
+  <programme channel="ESPN+  25" start="20260112060000 +0000" stop="20260112080000 +0000">
+    <title lang="en">Australian Open: Court 7 Qualifying First Round</title>
+  </programme>
+  <programme channel="ESPN+  26" start="20260112060000 +0000" stop="20260112080000 +0000">
+    <title lang="en">Australian Open: ANZ Arena Qualifying First Round</title>
+  </programme>
+  <programme channel="ESPN+  27" start="20260112063000 +0000" stop="20260112083000 +0000">
+    <title lang="en">NHL: Florida Panthers vs Buffalo Sabres (Panthers Broadcast)</title>
+  </programme>
+  <programme channel="ESPN+  28" start="20260112063000 +0000" stop="20260112083000 +0000">
+    <title lang="en">NHL: Florida Panthers vs Buffalo Sabres (Sabres Broadcast)</title>
+  </programme>
+  <programme channel="ESPN+  29" start="20260112063000 +0000" stop="20260112083000 +0000">
+    <title lang="en">NHL: Tampa Bay Lightning vs Philadelphia Flyers (Lightning Broadcast)</title>
+  </programme>
+  <programme channel="ESPN+  30" start="20260112063000 +0000" stop="20260112083000 +0000">
+    <title lang="en">NHL: Tampa Bay Lightning vs Philadelphia Flyers (Flyers Broadcast)</title>
+  </programme>
+  <programme channel="ESPN+  31" start="20260112063000 +0000" stop="20260112083000 +0000">
+    <title lang="en">NHL: Carolina Hurricanes vs Detroit Red Wings (Red Wings Broadcast)</title>
+  </programme>
+  <programme channel="ESPN+  32" start="20260112063000 +0000" stop="20260112083000 +0000">
+    <title lang="en">NHL: Carolina Hurricanes vs Detroit Red Wings (Hurricanes Broadcast)</title>
+  </programme>
+  <programme channel="ESPN+  33" start="20260112070000 +0000" stop="20260112090000 +0000">
+    <title lang="en">NCAAM: New Orleans vs SE Louisiana</title>
+  </programme>
+  <programme channel="ESPN+  34" start="20260112070000 +0000" stop="20260112090000 +0000">
+    <title lang="en">NHL: Vancouver Canucks vs Montreal Canadiens (Canadiens Broadcast)</title>
+  </programme>
+  <programme channel="ESPN+  35" start="20260112070000 +0000" stop="20260112090000 +0000">
+    <title lang="en">NCAAM: Maryland Eastern Shore vs Norfolk State</title>
+  </programme>
+  <programme channel="ESPN+  36" start="20260112070000 +0000" stop="20260112090000 +0000">
+    <title lang="en">NCAAM: South Carolina State vs Coppin State</title>
+  </programme>
+  <programme channel="ESPN+  37" start="20260112070000 +0000" stop="20260112090000 +0000">
+    <title lang="en">NCAAM: Houston Christian vs Lamar</title>
+  </programme>
+  <programme channel="ESPN+  38" start="20260112070000 +0000" stop="20260112090000 +0000">
+    <title lang="en">NCAAH: #19 Boston University vs Harvard</title>
+  </programme>
+  <programme channel="ESPN+  39" start="20260112070000 +0000" stop="20260112090000 +0000">
+    <title lang="en">NCAAM: Incarnate Word vs Stephen F Austin</title>
+  </programme>
+  <programme channel="Nbc Sports  01" start="20260112063000 +0000" stop="20260112083000 +0000">
+    <title lang="en">NBA: Celtics vs Pacers</title>
+  </programme>
+  <programme channel="Nbc Sports  02" start="20260112063000 +0000" stop="20260112083000 +0000">
+    <title lang="en">NHL: Lightning vs Flyers</title>
+  </programme>
+  <programme channel="Nbc Sports  03" start="20260112070000 +0000" stop="20260112090000 +0000">
+    <title lang="en">NBA: 76ers vs Raptors</title>
+  </programme>
+  <programme channel="Nbc Sports  04" start="20260112093000 +0000" stop="20260112113000 +0000">
+    <title lang="en">NBA: Lakers vs Kings</title>
+  </programme>
+  <programme channel="Paramount+  01" start="20260112122000 +0000" stop="20260112142000 +0000">
+    <title lang="en">Serie A: Genoa vs Cagliari</title>
+  </programme>
+  <programme channel="Paramount+  02" start="20260112023500 +0000" stop="20260112043500 +0000">
+    <title lang="en">Serie A: Juventus vs Cremonese</title>
+  </programme>
+  <programme channel="Stan Sports  01" start="20260112063000 +0000" stop="20260112083000 +0000">
+    <title lang="en">FA Cup: Fourth Round Draw</title>
+  </programme>
+  <programme channel="Stan Sports  02" start="20260112073500 +0000" stop="20260112093500 +0000">
+    <title lang="en">FA Cup: Liverpool vs Barnsley</title>
+  </programme>
+  <programme channel="Stan Sports  03" start="20260112110000 +0000" stop="20260112130000 +0000">
+    <title lang="en">Australian Open: Kokkinis vs Koevermans</title>
+  </programme>
+  <programme channel="Stan Sports  04" start="20260112110000 +0000" stop="20260112130000 +0000">
+    <title lang="en">Australian Open: Marinkov vs McCabe</title>
+  </programme>
+  <programme channel="Stan Sports  05" start="20260112110000 +0000" stop="20260112130000 +0000">
+    <title lang="en">Australian Open: Ellis vs Travaglia</title>
+  </programme>
+  <programme channel="Stan Sports  06" start="20260112110000 +0000" stop="20260112130000 +0000">
+    <title lang="en">Australian Open: Subasic vs Radivojevic</title>
+  </programme>
+  <programme channel="Stan Sports  07" start="20260112110000 +0000" stop="20260112130000 +0000">
+    <title lang="en">Australian Open: Hunter vs Gorgodze</title>
+  </programme>
+  <programme channel="Stan Sports  08" start="20260113123000 +0000" stop="20260113143000 +0000">
+    <title lang="en">Adelaide International: Shnaider vs Fernandez</title>
+  </programme>
+  <programme channel="Stan Sports  09" start="20260113123000 +0000" stop="20260113143000 +0000">
+    <title lang="en">Adelaide International: Machac vs Duckworth</title>
+  </programme>
+  <programme channel="Stan Sports  10" start="20260113123000 +0000" stop="20260113143000 +0000">
+    <title lang="en">Australian Open: Monnet vs Micic</title>
+  </programme>
+  <programme channel="Stan Sports  11" start="20260113123000 +0000" stop="20260113143000 +0000">
+    <title lang="en">Australian Open: Tu vs Jodar</title>
+  </programme>
+  <programme channel="Stan Sports  12" start="20260113123000 +0000" stop="20260113143000 +0000">
+    <title lang="en">Australian Open: Moller vs Polmans</title>
+  </programme>
+  <programme channel="Stan Sports  13" start="20260113123000 +0000" stop="20260113143000 +0000">
+    <title lang="en">Australian Open: Sharma vs Branstine</title>
+  </programme>
+  <programme channel="Stan Sports  14" start="20260113123000 +0000" stop="20260113143000 +0000">
+    <title lang="en">Australian Open: Bolt vs Ymer</title>
+  </programme>
+  <programme channel="Stan Sports  15" start="20260113123000 +0000" stop="20260113143000 +0000">
+    <title lang="en">Adelaide International: Show Court 1 Day 2</title>
+  </programme>
+  <programme channel="Stan Sports  16" start="20260113123000 +0000" stop="20260113143000 +0000">
+    <title lang="en">Adelaide International: Centre Court Day 2</title>
+  </programme>
+  <programme channel="Stan Sports  17" start="20260113020000 +0000" stop="20260113040000 +0000">
+    <title lang="en">Adelaide International: Schoolkate vs Hijikata</title>
+  </programme>
+  <programme channel="Stan Sports  18" start="20260113020000 +0000" stop="20260113040000 +0000">
+    <title lang="en">Adelaide International: Samsonova vs Vondrousova</title>
+  </programme>
+  <programme channel="Stan Sports  19" start="20260113020000 +0000" stop="20260113040000 +0000">
+    <title lang="en">Australian Open: Hewitt vs Zheng</title>
+  </programme>
+  <programme channel="Stan Sports  20" start="20260113020000 +0000" stop="20260113040000 +0000">
+    <title lang="en">Australian Open: Inglis vs Romero Gormaz</title>
+  </programme>
+  <programme channel="Stan Sports  21" start="20260113020000 +0000" stop="20260113040000 +0000">
+    <title lang="en">Australian Open: Kubler vs Mayot</title>
+  </programme>
+  <programme channel="Stan Sports  22" start="20260113033000 +0000" stop="20260113053000 +0000">
+    <title lang="en">Australian Open: Shymanovich vs Rodionova</title>
+  </programme>
+  <programme channel="Stan Sports  23" start="20260113033000 +0000" stop="20260113053000 +0000">
+    <title lang="en">Australian Open: Bouzige vs Draxl</title>
+  </programme>
+  <programme channel="Stan Sports  24" start="20260113040000 +0000" stop="20260113060000 +0000">
+    <title lang="en">Adelaide International: Vavassori vs Diallo</title>
+  </programme>
+  <programme channel="Stan Sports  25" start="20260113040000 +0000" stop="20260113060000 +0000">
+    <title lang="en">Adelaide International: Joint vs Kenin</title>
+  </programme>
+  <programme channel="Stan Sports  26" start="20260113050000 +0000" stop="20260113070000 +0000">
+    <title lang="en">Australian Open: Aiava vs Dart</title>
+  </programme>
+  <programme channel="Stan Sports  27" start="20260113053000 +0000" stop="20260113073000 +0000">
+    <title lang="en">Adelaide International: Quinn vs Fucsovics</title>
+  </programme>
+  <programme channel="Stan Sports  28" start="20260113060000 +0000" stop="20260113080000 +0000">
+    <title lang="en">Australian Open: Rybakina vs Paolini</title>
+  </programme>
+  <programme channel="Stan Sports  29" start="20260113070000 +0000" stop="20260113090000 +0000">
+    <title lang="en">Adelaide International: Mboko vs Kalinskaya</title>
+  </programme>
+  <programme channel="Stan Sports  30" start="20260113080000 +0000" stop="20260113100000 +0000">
+    <title lang="en">Australian Open: Zverev vs Musetti</title>
+  </programme>
+  <programme channel="Stan Sports  31" start="20260113080000 +0000" stop="20260113100000 +0000">
+    <title lang="en">Adelaide International: Tsitsipas vs Vukic</title>
+  </programme>
+  <programme channel="Stan Sports  32" start="20260113093000 +0000" stop="20260113113000 +0000">
+    <title lang="en">Adelaide International: Andreeva vs Bouzkova</title>
+  </programme>
+  <programme channel="VIX+  01" start="20260112064000 +0000" stop="20260112084000 +0000">
+    <title lang="en">Liga MX Femenil (Clausura): Toluca F vs Atlas F</title>
+  </programme>
+  <programme channel="Flo Hockey  02" start="20260112070000 +0000" stop="20260112090000 +0000">
+    <title lang="en">OJHL: Chargers vs Cougars</title>
+  </programme>
+  <programme channel="Flo Hockey  03" start="20260112073000 +0000" stop="20260112093000 +0000">
+    <title lang="en">OJHL: King vs Sabres</title>
+  </programme>
+  <programme channel="Flo Hockey  04" start="20260112100000 +0000" stop="20260112120000 +0000">
+    <title lang="en">NWJHL: Flyers vs Huskies</title>
+  </programme>
+  <programme channel="Flo Wrestling  01" start="20260112090000 +0000" stop="20260112110000 +0000">
+    <title lang="en">FloWrestling Radio Live Jan 12th</title>
+  </programme>
+  <programme channel="Flo Wrestling  02" start="20260112100000 +0000" stop="20260112120000 +0000">
+    <title lang="en">COMO TOC</title>
+  </programme>
+  <programme channel="Flo Wrestling  03" start="20260112100000 +0000" stop="20260112120000 +0000">
+    <title lang="en">Northview JV Scramble</title>
+  </programme>
+  <programme channel="Flo Wrestling  04" start="20260112110000 +0000" stop="20260112130000 +0000">
+    <title lang="en">Nebo District Championships</title>
+  </programme>
+  <programme channel="Flo Wrestling  05" start="20260112110000 +0000" stop="20260112130000 +0000">
+    <title lang="en">Girls Western Conference at Weatherford</title>
+  </programme>
+  <programme channel="Flo Wrestling  06" start="20260112020000 +0000" stop="20260112040000 +0000">
+    <title lang="en">Summer land Wrestling Tournament</title>
+  </programme>
+  <programme channel="Flo Wrestling  07" start="20260112020000 +0000" stop="20260112040000 +0000">
+    <title lang="en">Sparta @ Hesperia</title>
+  </programme>
+  <programme channel="Flo Wrestling  08" start="20260112020000 +0000" stop="20260112040000 +0000">
+    <title lang="en">Summerland Bobcat Lady Invite</title>
+  </programme>
+  <programme channel="Flo Wrestling  09" start="20260112030000 +0000" stop="20260112050000 +0000">
+    <title lang="en">Randolph Jr High Girls Invite</title>
+  </programme>
+  <programme channel="Flo Wrestling  10" start="20260112040000 +0000" stop="20260112060000 +0000">
+    <title lang="en">Wray Bash</title>
+  </programme>
+  <programme channel="Flo Wrestling  11" start="20260112040000 +0000" stop="20260112060000 +0000">
+    <title lang="en">William Penn @ Pennwood</title>
+  </programme>
+  <programme channel="Flo Wrestling  12" start="20260112040000 +0000" stop="20260112060000 +0000">
+    <title lang="en">Bensalem @ Lenape</title>
+  </programme>
+  <programme channel="Flo Wrestling  13" start="20260112040000 +0000" stop="20260112060000 +0000">
+    <title lang="en">Brandon Valley JV Tournament</title>
+  </programme>
+  <programme channel="Flo Wrestling  14" start="20260112040000 +0000" stop="20260112060000 +0000">
+    <title lang="en">Belton JV Scramble</title>
+  </programme>
+  <programme channel="Flo Wrestling  15" start="20260112040100 +0000" stop="20260112060100 +0000">
+    <title lang="en">McPherson High JV Boys Mixer</title>
+  </programme>
+  <programme channel="Flo Wrestling  16" start="20260112041500 +0000" stop="20260112061500 +0000">
+    <title lang="en">Robert K Shafer @ Tohickon</title>
+  </programme>
+  <programme channel="Flo Wrestling  17" start="20260112041500 +0000" stop="20260112061500 +0000">
+    <title lang="en">Maple Point @ Bristol</title>
+  </programme>
+  <programme channel="Flo Wrestling  18" start="20260112041500 +0000" stop="20260112061500 +0000">
+    <title lang="en">Neil Armstrong @ F D Roosevelt</title>
+  </programme>
+  <programme channel="Flo Wrestling  19" start="20260112041500 +0000" stop="20260112061500 +0000">
+    <title lang="en">Armstrong @ F D Roosevelt</title>
+  </programme>
+  <programme channel="Flo Wrestling  20" start="20260112043000 +0000" stop="20260112063000 +0000">
+    <title lang="en">Perkiomen Valley East @ Arcola</title>
+  </programme>
+  <programme channel="Flo Wrestling  21" start="20260112043000 +0000" stop="20260112063000 +0000">
+    <title lang="en">Wissahickon @ Sandy Run</title>
+  </programme>
+  <programme channel="Flo Wrestling  22" start="20260112043000 +0000" stop="20260112063000 +0000">
+    <title lang="en">Klinger @ Holicong</title>
+  </programme>
+  <programme channel="Flo Wrestling  23" start="20260112043000 +0000" stop="20260112063000 +0000">
+    <title lang="en">Newtown @ Poquessing</title>
+  </programme>
+  <programme channel="Flo Wrestling  24" start="20260112043000 +0000" stop="20260112063000 +0000">
+    <title lang="en">Owen J Roberts @ Norristown</title>
+  </programme>
+  <programme channel="Flo Wrestling  25" start="20260112043000 +0000" stop="20260112063000 +0000">
+    <title lang="en">Avon Grove Middle School @ Downingtown</title>
+  </programme>
+  <programme channel="Flo Wrestling  26" start="20260112043000 +0000" stop="20260112063000 +0000">
+    <title lang="en">Cedarbrook @ Penndale</title>
+  </programme>
+  <programme channel="Flo Wrestling  27" start="20260112043000 +0000" stop="20260112063000 +0000">
+    <title lang="en">Stetson @ Kennett</title>
+  </programme>
+  <programme channel="Flo Wrestling  28" start="20260112043000 +0000" stop="20260112063000 +0000">
+    <title lang="en">Peirce @ Chichester</title>
+  </programme>
+  <programme channel="Flo Wrestling  29" start="20260112043000 +0000" stop="20260112063000 +0000">
+    <title lang="en">Newark Charter @ Brandywine</title>
+  </programme>
+  <programme channel="Flo Wrestling  30" start="20260112043000 +0000" stop="20260112063000 +0000">
+    <title lang="en">Boyertown East @ Spring Ford</title>
+  </programme>
+  <programme channel="Flo Wrestling  31" start="20260112043000 +0000" stop="20260112063000 +0000">
+    <title lang="en">Pottsgrove @ Upper Perkiomen</title>
+  </programme>
+  <programme channel="Flo Wrestling  32" start="20260112053000 +0000" stop="20260112073000 +0000">
+    <title lang="en">Mount Olive Girls Wrestling Tri 2026</title>
+  </programme>
+  <programme channel="Flo Hoops  01" start="20260112053000 +0000" stop="20260112073000 +0000">
+    <title lang="en">Ferris State vs Northern Michigan</title>
+  </programme>
+  <programme channel="Flo Hoops  02" start="20260112060000 +0000" stop="20260112080000 +0000">
+    <title lang="en">Emmanuel MA vs Wheaton MA</title>
+  </programme>
+  <programme channel="Flo College  01" start="20260112053000 +0000" stop="20260112073000 +0000">
+    <title lang="en">Ferris State vs Northern Michigan</title>
+  </programme>
+  <programme channel="Flo College  02" start="20260112060000 +0000" stop="20260112080000 +0000">
+    <title lang="en">Emmanuel MA vs Wheaton MA</title>
+  </programme>
+  <programme channel="Flo College  03" start="20260112080000 +0000" stop="20260112100000 +0000">
+    <title lang="en">Plymouth State vs Salve Regina</title>
+  </programme>
+  <programme channel="Flo Racing  03" start="20260112093000 +0000" stop="20260112113000 +0000">
+    <title lang="en">The Dakar Rally</title>
+  </programme>
+  <programme channel="Flo Racing  04" start="20260112040000 +0000" stop="20260112060000 +0000">
+    <title lang="en">Chili Bowl Nationals</title>
+  </programme>
+  <programme channel="TSN+  57" start="20260112080000 +0000" stop="20260112100000 +0000">
+    <title lang="en">NFL Monday Night Kickoff</title>
+  </programme>
+  <programme channel="TSN+  58" start="20260112081500 +0000" stop="20260112101500 +0000">
+    <title lang="en">NFL Playoffs Wild Card with Peyton and Eli Texans vs Steelers</title>
+  </programme>
+  <programme channel="TSN+  59" start="20260112081500 +0000" stop="20260112101500 +0000">
+    <title lang="en">NFL Playoffs Wild Card Texans vs Steelers</title>
+  </programme>
+  <programme channel="TSN+  60" start="20260112093000 +0000" stop="20260112113000 +0000">
+    <title lang="en">ATP 250 Tennis Adelaide Day #2 Show Court</title>
+  </programme>
+  <programme channel="TSN+  61" start="20260112100000 +0000" stop="20260112120000 +0000">
+    <title lang="en">SC December Plays of the Month B</title>
+  </programme>
+  <programme channel="TSN+  62" start="20260112103000 +0000" stop="20260112123000 +0000">
+    <title lang="en">SC Top World Junior Moments</title>
+  </programme>
+  <programme channel="TSN+  63" start="20260112110000 +0000" stop="20260112130000 +0000">
+    <title lang="en">SC Top 40 Trick Plays of All Time</title>
+  </programme>
+  <programme channel="TSN+  64" start="20260112113000 +0000" stop="20260112133000 +0000">
+    <title lang="en">SC with Jay Onrait G</title>
+  </programme>
+  <programme channel="TSN+  65" start="20260112113000 +0000" stop="20260112133000 +0000">
+    <title lang="en">SC Wacky CFL Moments</title>
+  </programme>
+  <programme channel="TSN+  01" start="20260112013000 +0000" stop="20260112033000 +0000">
+    <title lang="en">ATP 250 Tennis Adelaide Day #1 Show Court</title>
+  </programme>
+  <programme channel="TSN+  02" start="20260112060000 +0000" stop="20260112080000 +0000">
+    <title lang="en">SC with Jay Onrait A</title>
+  </programme>
+  <programme channel="TSN+  03" start="20260112063000 +0000" stop="20260112083000 +0000">
+    <title lang="en">SPORTSCENTRE A</title>
+  </programme>
+  <programme channel="TSN+  04" start="20260112063000 +0000" stop="20260112083000 +0000">
+    <title lang="en">SC Top Games of the Year A</title>
+  </programme>
+  <programme channel="TSN+  05" start="20260112070000 +0000" stop="20260112090000 +0000">
+    <title lang="en">SC with Jay Onrait B</title>
+  </programme>
+  <programme channel="TSN+  06" start="20260112070000 +0000" stop="20260112090000 +0000">
+    <title lang="en">SC Top Plays of the Year A</title>
+  </programme>
+  <programme channel="TSN+  07" start="20260112073000 +0000" stop="20260112093000 +0000">
+    <title lang="en">SPORTSCENTRE B</title>
+  </programme>
+  <programme channel="TSN+  08" start="20260112073000 +0000" stop="20260112093000 +0000">
+    <title lang="en">SC Top Games of the Year B</title>
+  </programme>
+  <programme channel="TSN+  09" start="20260112080000 +0000" stop="20260112100000 +0000">
+    <title lang="en">SC with Jay Onrait C</title>
+  </programme>
+  <programme channel="TSN+  10" start="20260112080000 +0000" stop="20260112100000 +0000">
+    <title lang="en">SC Top Plays of the Year B</title>
+  </programme>
+  <programme channel="TSN+  11" start="20260112083000 +0000" stop="20260112103000 +0000">
+    <title lang="en">SPORTSCENTRE C</title>
+  </programme>
+  <programme channel="TSN+  12" start="20260112083000 +0000" stop="20260112103000 +0000">
+    <title lang="en">SC Top Games of the Year C</title>
+  </programme>
+  <programme channel="TSN+  13" start="20260112090000 +0000" stop="20260112110000 +0000">
+    <title lang="en">SC with Jay Onrait D</title>
+  </programme>
+  <programme channel="TSN+  14" start="20260112090000 +0000" stop="20260112110000 +0000">
+    <title lang="en">SC Top Plays of the Year C</title>
+  </programme>
+  <programme channel="TSN+  15" start="20260112093000 +0000" stop="20260112113000 +0000">
+    <title lang="en">SPORTSCENTRE D</title>
+  </programme>
+  <programme channel="TSN+  16" start="20260112093000 +0000" stop="20260112113000 +0000">
+    <title lang="en">SC Top Games of the Year D</title>
+  </programme>
+  <programme channel="TSN+  17" start="20260112100000 +0000" stop="20260112120000 +0000">
+    <title lang="en">SC with Jay Onrait E</title>
+  </programme>
+  <programme channel="TSN+  18" start="20260112100000 +0000" stop="20260112120000 +0000">
+    <title lang="en">SC Top Plays of the Year D</title>
+  </programme>
+  <programme channel="TSN+  19" start="20260112103000 +0000" stop="20260112123000 +0000">
+    <title lang="en">SPORTSCENTRE E</title>
+  </programme>
+  <programme channel="TSN+  20" start="20260112103000 +0000" stop="20260112123000 +0000">
+    <title lang="en">SC Top Games of the Year E</title>
+  </programme>
+  <programme channel="TSN+  21" start="20260112110000 +0000" stop="20260112130000 +0000">
+    <title lang="en">SC with Jay Onrait F</title>
+  </programme>
+  <programme channel="TSN+  22" start="20260112110000 +0000" stop="20260112130000 +0000">
+    <title lang="en">SC Top Plays of the Year E</title>
+  </programme>
+  <programme channel="TSN+  23" start="20260112113000 +0000" stop="20260112133000 +0000">
+    <title lang="en">SPORTSCENTRE F</title>
+  </programme>
+  <programme channel="TSN+  24" start="20260112113000 +0000" stop="20260112133000 +0000">
+    <title lang="en">SC Top Games of the Year F</title>
+  </programme>
+  <programme channel="TSN+  25" start="20260112120000 +0000" stop="20260112140000 +0000">
+    <title lang="en">Pat McAfee Show A</title>
+  </programme>
+  <programme channel="TSN+  26" start="20260112120000 +0000" stop="20260112140000 +0000">
+    <title lang="en">SC Top Super Bowl Moments</title>
+  </programme>
+  <programme channel="TSN+  27" start="20260112120000 +0000" stop="20260112140000 +0000">
+    <title lang="en">First Take A</title>
+  </programme>
+  <programme channel="TSN+  28" start="20260112123000 +0000" stop="20260112143000 +0000">
+    <title lang="en">SC December Plays of the Month A</title>
+  </programme>
+  <programme channel="TSN+  29" start="20260112123000 +0000" stop="20260112143000 +0000">
+    <title lang="en">SPORTSCENTRE G</title>
+  </programme>
+  <programme channel="TSN+  30" start="20260112010000 +0000" stop="20260112030000 +0000">
+    <title lang="en">SC Top 50 World Hockey Championship Goals</title>
+  </programme>
+  <programme channel="TSN+  31" start="20260112013000 +0000" stop="20260112033000 +0000">
+    <title lang="en">SC Top Overtime Moments</title>
+  </programme>
+  <programme channel="TSN+  32" start="20260112013000 +0000" stop="20260112033000 +0000">
+    <title lang="en">SC Top WNBA Moments</title>
+  </programme>
+  <programme channel="TSN+  33" start="20260112020000 +0000" stop="20260112040000 +0000">
+    <title lang="en">Motorcycle Experience A</title>
+  </programme>
+  <programme channel="TSN+  34" start="20260112020000 +0000" stop="20260112040000 +0000">
+    <title lang="en">Why We Love Sports A</title>
+  </programme>
+  <programme channel="TSN+  35" start="20260112020000 +0000" stop="20260112040000 +0000">
+    <title lang="en">2025 Scotties Tournament of Hearts Final</title>
+  </programme>
+  <programme channel="TSN+  36" start="20260112023000 +0000" stop="20260112043000 +0000">
+    <title lang="en">SC Top Rivalries in Sports</title>
+  </programme>
+  <programme channel="TSN+  37" start="20260112024800 +0000" stop="20260112044800 +0000">
+    <title lang="en">LaLiga Sevilla vs Celta</title>
+  </programme>
+  <programme channel="TSN+  38" start="20260112030000 +0000" stop="20260112050000 +0000">
+    <title lang="en">NFL Live A</title>
+  </programme>
+  <programme channel="TSN+  39" start="20260112030000 +0000" stop="20260112050000 +0000">
+    <title lang="en">NBA Today A</title>
+  </programme>
+  <programme channel="TSN+  40" start="20260112040000 +0000" stop="20260112060000 +0000">
+    <title lang="en">OverDrive A</title>
+  </programme>
+  <programme channel="TSN+  41" start="20260112050000 +0000" stop="20260112070000 +0000">
+    <title lang="en">2026 IIHF U18 Womens World Championship Canada vs Hungary A</title>
+  </programme>
+  <programme channel="TSN+  42" start="20260112050000 +0000" stop="20260112070000 +0000">
+    <title lang="en">College Football Live A</title>
+  </programme>
+  <programme channel="TSN+  43" start="20260112050000 +0000" stop="20260112070000 +0000">
+    <title lang="en">SC Top 50 NBA Buzzer Beaters</title>
+  </programme>
+  <programme channel="TSN+  44" start="20260112053000 +0000" stop="20260112073000 +0000">
+    <title lang="en">ATP 250 Tennis Auckland Day #2</title>
+  </programme>
+  <programme channel="TSN+  45" start="20260112053000 +0000" stop="20260112073000 +0000">
+    <title lang="en">Pardon The Interruption A</title>
+  </programme>
+  <programme channel="TSN+  46" start="20260112053000 +0000" stop="20260112073000 +0000">
+    <title lang="en">SC CFL Plays of the Year</title>
+  </programme>
+  <programme channel="TSN+  47" start="20260112060000 +0000" stop="20260112080000 +0000">
+    <title lang="en">Australian Open Qualifying Day #2 Court TBD</title>
+  </programme>
+  <programme channel="TSN+  48" start="20260112060000 +0000" stop="20260112080000 +0000">
+    <title lang="en">SPORTSCENTRE H</title>
+  </programme>
+  <programme channel="TSN+  49" start="20260112060000 +0000" stop="20260112080000 +0000">
+    <title lang="en">Breaking Down Barriers Game Changers</title>
+  </programme>
+  <programme channel="TSN+  50" start="20260112060000 +0000" stop="20260112080000 +0000">
+    <title lang="en">NFL Monday Night Countdown A</title>
+  </programme>
+  <programme channel="TSN+  51" start="20260112063000 +0000" stop="20260112083000 +0000">
+    <title lang="en">Breaking Down Barriers The Future of Girls Hockey</title>
+  </programme>
+  <programme channel="TSN+  52" start="20260112070000 +0000" stop="20260112090000 +0000">
+    <title lang="en">Breaking Down Barriers The Legacy of Kenny Washington</title>
+  </programme>
+  <programme channel="TSN+  53" start="20260112073000 +0000" stop="20260112093000 +0000">
+    <title lang="en">ATP 250 Tennis Adelaide Day #2 Centre Court</title>
+  </programme>
+  <programme channel="TSN+  54" start="20260112073000 +0000" stop="20260112093000 +0000">
+    <title lang="en">NFL Monday Night Countdown B</title>
+  </programme>
+  <programme channel="TSN+  55" start="20260112073000 +0000" stop="20260112093000 +0000">
+    <title lang="en">Breaking Down Barriers Girls Just Want to Box A</title>
+  </programme>
+  <programme channel="TSN+  56" start="20260112073000 +0000" stop="20260112093000 +0000">
+    <title lang="en">NBA on TSN Celtics vs Pacers</title>
+  </programme>
+  <programme channel="Sportsnet+  01" start="20260112090000 +0000" stop="20260112110000 +0000">
+    <title lang="en">The JD Bunkis Podcast Jan 12</title>
+  </programme>
+  <programme channel="Sportsnet+  02" start="20260112090000 +0000" stop="20260112110000 +0000">
+    <title lang="en">Halford &amp; Brough Jan 12</title>
+  </programme>
+  <programme channel="Sportsnet+  03" start="20260112110000 +0000" stop="20260112130000 +0000">
+    <title lang="en">The Raptors Show Jan 12</title>
+  </programme>
+  <programme channel="Sportsnet+  04" start="20260112120000 +0000" stop="20260112140000 +0000">
+    <title lang="en">The FAN Hockey Show Jan 12</title>
+  </programme>
+  <programme channel="Sportsnet+  05" start="20260112023500 +0000" stop="20260112043500 +0000">
+    <title lang="en">FA CUP: Liverpool vs Barnsley</title>
+  </programme>
+  <programme channel="Sportsnet+  06" start="20260112040000 +0000" stop="20260112060000 +0000">
+    <title lang="en">Real Kyper &amp; Bourne Jan 12</title>
+  </programme>
+  <programme channel="Sportsnet+  07" start="20260112053000 +0000" stop="20260112073000 +0000">
+    <title lang="en">NHL: Carolina vs Detroit</title>
+  </programme>
+  <programme channel="Sportsnet+  08" start="20260112060000 +0000" stop="20260112080000 +0000">
+    <title lang="en">The FAN Pregame Jan 12</title>
+  </programme>
+  <programme channel="Sportsnet+  09" start="20260112070000 +0000" stop="20260112090000 +0000">
+    <title lang="en">NHL: Tampa Bay vs Philadelphia</title>
+  </programme>
+  <programme channel="Sportsnet+  10" start="20260112070000 +0000" stop="20260112090000 +0000">
+    <title lang="en">NHL: Florida vs Buffalo Available outside Sabres region</title>
+  </programme>
+  <programme channel="Sportsnet+  11" start="20260112070000 +0000" stop="20260112090000 +0000">
+    <title lang="en">NHL: Seattle vs New York Rangers</title>
+  </programme>
+  <programme channel="Sportsnet+  12" start="20260112073000 +0000" stop="20260112093000 +0000">
+    <title lang="en">NBA: Philadelphia vs Toronto</title>
+  </programme>
+  <programme channel="Sportsnet+  13" start="20260112073000 +0000" stop="20260112093000 +0000">
+    <title lang="en">NHL: French Language Broadcast Vancouver vs Montreal</title>
+  </programme>
+  <programme channel="Sportsnet+  14" start="20260112080000 +0000" stop="20260112100000 +0000">
+    <title lang="en">NHL: New Jersey vs Minnesota</title>
+  </programme>
+  <programme channel="Sportsnet+  15" start="20260112083000 +0000" stop="20260112103000 +0000">
+    <title lang="en">NHL: Edmonton vs Chicago</title>
+  </programme>
+  <programme channel="Sportsnet+  16" start="20260112100000 +0000" stop="20260112120000 +0000">
+    <title lang="en">NHL: Dallas vs Los Angeles</title>
+  </programme>
+  <programme channel="Sportsnet+  17" start="20260112100000 +0000" stop="20260112120000 +0000">
+    <title lang="en">NHL: Toronto vs Colorado</title>
+  </programme>
+  <programme channel="Sportsnet+  18" start="20260112100000 +0000" stop="20260112120000 +0000">
+    <title lang="en">NBA: Los Angeles Lakers vs Sacramento</title>
+  </programme>
+  <programme channel="Tennis  38" start="20260113072000 +0000" stop="20260113092000 +0000">
+    <title lang="en">Mboko, Victoria vs Kalinskaya, Anna</title>
+  </programme>
+  <programme channel="Tennis  39" start="20260113073000 +0000" stop="20260113093000 +0000">
+    <title lang="en">Piter K, Tjen J vs Da Silva Fick G, Osborne A</title>
+  </programme>
+  <programme channel="Tennis  40" start="20260113083000 +0000" stop="20260113103000 +0000">
+    <title lang="en">Raducanu, Emma vs Osorio, Camila</title>
+  </programme>
+  <programme channel="Tennis  41" start="20260113084000 +0000" stop="20260113104000 +0000">
+    <title lang="en">Xu Y, Yang Z vs Wang Xin, Zheng S</title>
+  </programme>
+  <programme channel="Tennis  42" start="20260113090000 +0000" stop="20260113110000 +0000">
+    <title lang="en">Tsitsipas, Stefanos vs Vukic, Aleksandar</title>
+  </programme>
+  <programme channel="Tennis  43" start="20260113094000 +0000" stop="20260113114000 +0000">
+    <title lang="en">Selekhmeteva, Oksana vs Linette, Magda</title>
+  </programme>
+  <programme channel="Tennis  44" start="20260113103000 +0000" stop="20260113123000 +0000">
+    <title lang="en">Andreeva, Mirra vs Bouzkova, Marie</title>
+  </programme>
+  <programme channel="Tennis  01" start="20260112060000 +0000" stop="20260112080000 +0000">
+    <title lang="en">Australian Open: Court 14 Qualifying First Round</title>
+  </programme>
+  <programme channel="Tennis  02" start="20260112060000 +0000" stop="20260112080000 +0000">
+    <title lang="en">Australian Open: Court 17 Qualifying First Round</title>
+  </programme>
+  <programme channel="Tennis  03" start="20260112060000 +0000" stop="20260112080000 +0000">
+    <title lang="en">Australian Open: Court 11 Qualifying First Round</title>
+  </programme>
+  <programme channel="Tennis  04" start="20260112060000 +0000" stop="20260112080000 +0000">
+    <title lang="en">Australian Open: Court 6 Qualifying First Round</title>
+  </programme>
+  <programme channel="Tennis  05" start="20260112060000 +0000" stop="20260112080000 +0000">
+    <title lang="en">Australian Open: Court 5 Qualifying First Round</title>
+  </programme>
+  <programme channel="Tennis  06" start="20260112060000 +0000" stop="20260112080000 +0000">
+    <title lang="en">Australian Open: Court 8 Qualifying First Round</title>
+  </programme>
+  <programme channel="Tennis  07" start="20260112060000 +0000" stop="20260112080000 +0000">
+    <title lang="en">Australian Open: Court 15 Qualifying First Round</title>
+  </programme>
+  <programme channel="Tennis  08" start="20260112060000 +0000" stop="20260112080000 +0000">
+    <title lang="en">Australian Open: Court 16 Qualifying First Round</title>
+  </programme>
+  <programme channel="Tennis  09" start="20260112060000 +0000" stop="20260112080000 +0000">
+    <title lang="en">Australian Open: Kia Arena Qualifying First Round</title>
+  </programme>
+  <programme channel="Tennis  10" start="20260112060000 +0000" stop="20260112080000 +0000">
+    <title lang="en">Australian Open: 1573 Arena Qualifying First Round</title>
+  </programme>
+  <programme channel="Tennis  11" start="20260112060000 +0000" stop="20260112080000 +0000">
+    <title lang="en">Australian Open: Court 13 Qualifying First Round</title>
+  </programme>
+  <programme channel="Tennis  12" start="20260112060000 +0000" stop="20260112080000 +0000">
+    <title lang="en">Australian Open: Court 12 Qualifying First Round</title>
+  </programme>
+  <programme channel="Tennis  13" start="20260112060000 +0000" stop="20260112080000 +0000">
+    <title lang="en">Australian Open: Court 7 Qualifying First Round</title>
+  </programme>
+  <programme channel="Tennis  14" start="20260112060000 +0000" stop="20260112080000 +0000">
+    <title lang="en">Australian Open: ANZ Arena Qualifying First Round</title>
+  </programme>
+  <programme channel="Tennis  15" start="20260112233000 +0000" stop="20260113013000 +0000">
+    <title lang="en">Tabilo, Alejandro vs Ugo Carabelli, Camilo</title>
+  </programme>
+  <programme channel="Tennis  16" start="20260113004000 +0000" stop="20260113024000 +0000">
+    <title lang="en">Bautista Agut, Roberto vs Mpetshi Perricard, Giovanni</title>
+  </programme>
+  <programme channel="Tennis  17" start="20260113010000 +0000" stop="20260113030000 +0000">
+    <title lang="en">Bondar, Anna vs Seidel, Ella</title>
+  </programme>
+  <programme channel="Tennis  18" start="20260113010000 +0000" stop="20260113030000 +0000">
+    <title lang="en">Sramkova, Rebecca vs Gracheva, Varvara</title>
+  </programme>
+  <programme channel="Tennis  19" start="20260113013000 +0000" stop="20260113033000 +0000">
+    <title lang="en">Machac, Tomas vs Duckworth, James</title>
+  </programme>
+  <programme channel="Tennis  20" start="20260113013000 +0000" stop="20260113033000 +0000">
+    <title lang="en">Shnaider, Diana vs Fernandez, Leylah</title>
+  </programme>
+  <programme channel="Tennis  21" start="20260113020000 +0000" stop="20260113040000 +0000">
+    <title lang="en">Stearns, Peyton vs Krejcikova, Barbora</title>
+  </programme>
+  <programme channel="Tennis  22" start="20260113021000 +0000" stop="20260113041000 +0000">
+    <title lang="en">Bouzas Maneiro J, Cocciaretto E vs Hozumi E, Wu F-H</title>
+  </programme>
+  <programme channel="Tennis  23" start="20260113021000 +0000" stop="20260113041000 +0000">
+    <title lang="en">Jovic, Iva vs Tjen, Janice</title>
+  </programme>
+  <programme channel="Tennis  24" start="20260113024000 +0000" stop="20260113044000 +0000">
+    <title lang="en">Schoolkate, Tristan vs Hijikata, Rinky</title>
+  </programme>
+  <programme channel="Tennis  25" start="20260113024000 +0000" stop="20260113044000 +0000">
+    <title lang="en">Samsonova, Liudmila vs Vondrousova, Marketa</title>
+  </programme>
+  <programme channel="Tennis  26" start="20260113024000 +0000" stop="20260113044000 +0000">
+    <title lang="en">Birrell, Kimberly vs Potapova, Anastasia</title>
+  </programme>
+  <programme channel="Tennis  27" start="20260113031000 +0000" stop="20260113051000 +0000">
+    <title lang="en">Maria, Tatjana vs Williams, Venus</title>
+  </programme>
+  <programme channel="Tennis  28" start="20260113032000 +0000" stop="20260113052000 +0000">
+    <title lang="en">Jacquemot, Elsa vs Frech, Magdalena</title>
+  </programme>
+  <programme channel="Tennis  29" start="20260113035000 +0000" stop="20260113055000 +0000">
+    <title lang="en">Ostapenko, Jelena vs Valentova, Tereza</title>
+  </programme>
+  <programme channel="Tennis  30" start="20260113050000 +0000" stop="20260113070000 +0000">
+    <title lang="en">Wang, Xinyu vs Gibson, Talia</title>
+  </programme>
+  <programme channel="Tennis  31" start="20260113050000 +0000" stop="20260113070000 +0000">
+    <title lang="en">Vavassori, Andrea vs Diallo, Gabriel</title>
+  </programme>
+  <programme channel="Tennis  32" start="20260113050000 +0000" stop="20260113070000 +0000">
+    <title lang="en">Joint, Maya vs Kenin, Sofia</title>
+  </programme>
+  <programme channel="Tennis  33" start="20260113050000 +0000" stop="20260113070000 +0000">
+    <title lang="en">Putintseva, Yulia vs Galfi, Dalma</title>
+  </programme>
+  <programme channel="Tennis  34" start="20260113060000 +0000" stop="20260113080000 +0000">
+    <title lang="en">Marozsan, Fabian vs Monfils, Gael</title>
+  </programme>
+  <programme channel="Tennis  35" start="20260113061000 +0000" stop="20260113081000 +0000">
+    <title lang="en">Quinn, Ethan vs Fucsovics, Marton</title>
+  </programme>
+  <programme channel="Tennis  36" start="20260113061000 +0000" stop="20260113081000 +0000">
+    <title lang="en">Cirstea, Sorana vs Yastremska, Dayana</title>
+  </programme>
+  <programme channel="Tennis  37" start="20260113071000 +0000" stop="20260113091000 +0000">
+    <title lang="en">Borges, Nuno vs Etcheverry, Tomas Martin</title>
+  </programme>
+  <programme channel="MAX US 01" start="20260112190000 +0000" stop="20260112210000 +0000">
+    <title lang="en">Basketball: Mist vs Phantom</title>
+  </programme>
+  <programme channel="MAX US 02" start="20260112204500 +0000" stop="20260112224500 +0000">
+    <title lang="en">Basketball: Laces vs Lunar Owls</title>
+  </programme>
+</tv>
